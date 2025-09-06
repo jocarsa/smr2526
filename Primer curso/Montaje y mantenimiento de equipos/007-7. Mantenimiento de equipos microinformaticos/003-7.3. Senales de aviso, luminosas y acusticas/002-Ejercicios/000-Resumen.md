@@ -1,0 +1,13 @@
+La carpeta `Primer curso/Montaje y mantenimiento de equipos/007-7. Mantenimiento de equipos microinformaticos/003-7.3. Senales de aviso, luminosas y acusticas/002-Ejercicios` se centra en el aspecto práctico del mantenimiento de equipos microinformáticos, enfocándose específicamente en las señales de aviso visuales y auditivas que estos dispositivos emiten. Este nivel de la jerarquía proporciona un enfoque detallado y aplicable a los profesionales de TI y técnicos en el campo del montaje y mantenimiento de equipos.
+
+El propósito principal de esta carpeta es preparar al lector para entender cómo identificar, interpretar y responder a las señales de aviso que indican problemas o estados de funcionamiento no normales en los equipos microinformáticos. Las señales visuales, como luces LED, y las señales auditivas son herramientas cruciales para la detección temprana de fallos y el diagnóstico rápido.
+
+El recorrido conceptual típico en esta carpeta comienza con una introducción a los tipos diferentes de senales que pueden aparecer en un equipo microinformático, desde luces LED indicadoras hasta sonidos de alerta. A continuación, se profundiza en la interpretación de estas señales, explicando qué significa cada tipo de luz y sonido y cómo estos indican el estado del sistema.
+
+El contenido incluye ejercicios prácticos que simulan situaciones reales donde un técnico debe identificar y responder a las señales de aviso. Estos ejercicios pueden variar desde la interpretación de luces LED en diferentes estados hasta la interpretación de sonidos de alerta, proporcionando una práctica integral del conocimiento teórico.
+
+Además, se aborda cómo los técnicos deben documentar y reportar estos eventos para un seguimiento adecuado y el mantenimiento preventivo. Esto incluye la creación de registros detallados de las señales observadas y su interpretación, así como la comunicación efectiva con otros equipos o servicios de soporte.
+
+El enfoque en este nivel es práctico y orientado a la solución inmediata de problemas, lo que se refleja en los ejercicios diseñados para ser completados por el lector. Estos ejercicios no solo aumentan la confianza técnica del lector sino que también preparan al mismo para situaciones reales donde las señales de aviso pueden indicar problemas graves.
+
+En resumen, esta carpeta es una herramienta valiosa para los técnicos y profesionales de TI que desean mejorar sus habilidades en el mantenimiento de equipos microinformáticos. Proporciona un enfoque práctico y detallado en la interpretación y respuesta a las señales de aviso, preparando al lector para enfrentar eficazmente los desafíos del campo.
