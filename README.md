@@ -53,8 +53,7 @@ Este repositorio se apoya en un script en Python que:
 2. Detecta encabezados de nivel 1 (H1) y nivel 2 (H2).
 3. Genera automáticamente la jerarquía de carpetas y archivos Markdown.
 
-```bash
-python3 docx_headings_to_structure.py
+
 🤝 Contribución
 Si eres docente: añade tus propios materiales en los apartados correspondientes.
 
