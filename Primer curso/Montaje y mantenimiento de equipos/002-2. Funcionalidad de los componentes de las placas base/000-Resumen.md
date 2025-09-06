@@ -1,0 +1,11 @@
+La carpeta `Primer curso/Montaje y mantenimiento de equipos/002-2. Funcionalidad de los componentes de las placas base` se centra en el estudio detallado de la estructura interna y las características funcionales de las placas base, que son fundamentales para el funcionamiento de cualquier sistema informático. Esta unidad didáctica busca proporcionar a los estudiantes una comprensión profunda de cómo interactúan los diversos componentes que conforman una placa base, desde la CPU hasta la memoria RAM y los puertos de entrada/salida.
+
+El enfoque principal es explicar cada componente de la placa base en términos técnicos accesibles, destacando su papel específico dentro del sistema. Se aborda la arquitectura general de una placa base, incluyendo el diseño físico y las funciones que desempeñan los diversos chips y circuitos integrados.
+
+Además, se exploran conceptos clave como la BIOS (Basic Input/Output System), que es el programa de arranque que inicia el sistema operativo, y cómo interactúa con los componentes de la placa base. También se discute la importancia del firmware en la configuración inicial y el mantenimiento de la placa base.
+
+El recorrido conceptual típico en esta carpeta comienza por una introducción a las principales características de una placa base, como su tamaño, forma y conectividad. A continuación, se profundiza en cada componente, explicando cómo funciona y qué funciones cumple dentro del sistema. Se muestra cómo estos componentes trabajan juntos para proporcionar la capacidad de procesamiento, almacenamiento y comunicación necesarios.
+
+La unidad también incluye ejemplos prácticos y diagramas que ilustran cómo se montan los componentes en una placa base, así como las consideraciones técnicas a tener en cuenta durante el proceso. Además, se aborda el mantenimiento básico de la placa base, enseñando cómo identificar problemas comunes y realizar sencillos reparos.
+
+Finalmente, esta carpeta culmina con un análisis de los últimos desarrollos tecnológicos en placas base, destacando las innovaciones que han mejorado significativamente su rendimiento y eficiencia. A través de este recorrido, los estudiantes adquieren una sólida comprensión del funcionamiento interno de los sistemas informáticos, preparándolos para avanzar a unidades más complejas sobre montaje y mantenimiento avanzado.
