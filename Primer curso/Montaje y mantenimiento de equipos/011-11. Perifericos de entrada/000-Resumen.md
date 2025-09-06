@@ -1,0 +1,13 @@
+La carpeta `Primer curso/Montaje y mantenimiento de equipos/011-11. Perifericos de entrada` aborda un aspecto crucial del montaje y mantenimiento de equipos informáticos: la configuración y gestión de los periféricos de entrada. En este nivel, el enfoque se centra en entender cómo funcionan estos dispositivos y cómo pueden ser integrados y optimizados para mejorar la eficiencia y productividad.
+
+Los periféricos de entrada son componentes fundamentales que permiten a los usuarios interactuar con el sistema informático, proporcionando datos y comandos necesarios para su operación. En esta unidad didáctica, se exploran diversos tipos de periféricos de entrada como teclados, ratones, mouses, lápices digitales y dispositivos táctiles. Se discute la importancia de cada tipo de dispositivo en el flujo de trabajo del usuario y cómo su correcta configuración puede maximizar la productividad.
+
+El recorrido conceptual típico en esta carpeta comienza con una introducción a los periféricos de entrada, describiendo sus funciones básicas y los diferentes tipos disponibles. A continuación, se profundiza en el montaje y configuración de cada tipo de dispositivo, incluyendo procedimientos paso a paso y consejos prácticos para su instalación. Se aborda también la importancia del ajuste personalizado de los periféricos para optimizar la comodidad y eficiencia del usuario.
+
+Además, se examina el mantenimiento de los periféricos de entrada, cubriendo aspectos como la limpieza regular, la reparación de fallos comunes y la actualización de drivers. Se discute cómo mantener estos dispositivos en óptimas condiciones para prolongar su vida útil y garantizar un rendimiento confiable.
+
+La unidad también aborda el impacto de los periféricos de entrada en la seguridad informática, destacando las precauciones a tomar para proteger información sensible durante el uso de dispositivos de entrada. Se exploran medidas como la protección contra malware y el uso de periféricos de entrada autenticados.
+
+Finalmente, se concluye con un resumen de los conceptos clave aprendidos en esta unidad y cómo aplicarlos en situaciones prácticas de montaje y mantenimiento de equipos informáticos. Se proporcionan ejemplos ilustrativos y consejos adicionales para facilitar el entendimiento y la aplicación de los conocimientos adquiridos.
+
+En resumen, la carpeta `011-11. Perifericos de entrada` ofrece una visión integral sobre la configuración, gestión y mantenimiento de los periféricos de entrada en equipos informáticos. A través de un enfoque práctico y orientado a la solución de problemas, esta unidad didáctica proporciona a los estudiantes las herramientas necesarias para entender y optimizar el uso de estos dispositivos en entornos profesionales y domésticos.

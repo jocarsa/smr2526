@@ -1,0 +1,13 @@
+La carpeta `Primer curso/Montaje y mantenimiento de equipos/005-5. Placas Base` aborda un tema fundamental en el montaje y mantenimiento de equipos electrónicos, centrándose específicamente en las placas base. Esta unidad didáctica tiene como objetivo proporcionar a los estudiantes una comprensión profunda de la estructura interna y funcionamiento de las placas base, que son el cerebro del sistema informático.
+
+El enfoque inicial se centra en la identificación y caracterización de las diferentes componentes que componen una placa base. Los estudiantes aprenderán a distinguir entre los diversos tipos de placas base, como ATX, Micro-ATX, Mini-ITX, según su tamaño y diseño. Además, se explorará el papel crucial que desempeñan los chips madre en la integración de todos los componentes del sistema.
+
+El recorrido conceptual típico comienza con una introducción a la arquitectura general de una placa base, incluyendo las áreas principales como el socket para el procesador, los puertos y conectores, y la memoria RAM. A continuación, se profundizará en cada uno de estos elementos, proporcionando detalles técnicos sobre su funcionamiento y cómo interactúan entre sí.
+
+Además, la unidad didáctica incluirá una sección dedicada a la instalación de componentes en la placa base, enseñando a los estudiantes cómo montar el procesador, la memoria RAM y otros dispositivos críticos. Se proporcionarán instrucciones paso a paso y consejos prácticos para garantizar un montaje seguro y eficiente.
+
+Es importante destacar que esta unidad también abordará aspectos de mantenimiento, como la limpieza de la placa base y la identificación y solución de problemas comunes. Los estudiantes aprenderán cómo mantener el sistema limpio y cómo diagnosticar problemas de rendimiento o fallos en la placa base.
+
+Finalmente, la carpeta culminará con una sección dedicada a los resultados de aprendizaje y criterios de evaluación, proporcionando un marco claro para evaluar el conocimiento adquirido durante esta unidad. Los estudiantes serán capaces de identificar las diferentes componentes de una placa base, describir su funcionamiento y realizar un montaje básico.
+
+En resumen, la carpeta `Primer curso/Montaje y mantenimiento de equipos/005-5. Placas Base` es una unidad didáctica integral que proporciona a los estudiantes una comprensión profunda del papel crucial de las placas base en el funcionamiento de un sistema informático. Desde su estructura interna hasta la instalación y mantenimiento, esta unidad ofrece un recorrido conceptual completo y práctico, preparando a los estudiantes para enfrentar desafíos más complejos en el montaje y mantenimiento de equipos electrónicos.
