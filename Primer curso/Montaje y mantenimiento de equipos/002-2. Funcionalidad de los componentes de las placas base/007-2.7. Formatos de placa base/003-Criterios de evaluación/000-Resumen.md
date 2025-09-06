@@ -1,0 +1,11 @@
+La carpeta `Primer curso/Montaje y mantenimiento de equipos/002-2. Funcionalidad de los componentes de las placas base/007-2.7. Formatos de placa base/003-Criterios de evaluación` se centra en la comprensión y análisis de los diferentes formatos o tipos de placas base utilizados en sistemas informáticos. Este nivel del contenido proporciona una evaluación criteriosa de las distintas opciones disponibles, sus características y aplicaciones específicas.
+
+El propósito principal es que el lector comprenda no solo qué formatos existen para las placas base, sino también cómo estos formatos afectan la funcionalidad y el rendimiento del sistema. Se aborda desde los aspectos técnicos hasta las consideraciones prácticas en la elección de un formato específico.
+
+El enfoque aquí es desglosar cada formato de placa base, destacando sus ventajas y desventajas. Esto incluye la capacidad de almacenamiento, el tipo de conectividad disponible, el tamaño del sistema que puede soportar y otros factores relevantes para el montaje y mantenimiento de equipos informáticos.
+
+El recorrido conceptual típico en este nivel comienza con una introducción general a los formatos de placa base, luego se profundiza en cada uno de ellos. Se presentan ejemplos prácticos de cómo estos formatos son utilizados en diferentes tipos de sistemas y situaciones. Finalmente, se concluye con un análisis criterioso que evalúa la eficacia de cada formato en función de las necesidades específicas del usuario o del proyecto.
+
+Este nivel es crucial para aquellos interesados en el montaje y mantenimiento de equipos informáticos, ya que proporciona una base sólida sobre cómo seleccionar y utilizar los componentes adecuados. A través de esta evaluación criteriosa, se demuestra la importancia de considerar no solo las características técnicas, sino también las implicaciones prácticas en el funcionamiento del sistema.
+
+En resumen, este nivel del contenido ofrece una visión detallada y crítica de los diferentes formatos de placas base, equilibrando conocimientos técnicos con aplicaciones prácticas. Es un recurso valioso para profesionales y estudiantes interesados en la montaje y mantenimiento de equipos informáticos, proporcionándoles las herramientas necesarias para tomar decisiones informadas sobre la elección del formato adecuado para sus proyectos.

@@ -1,0 +1,11 @@
+El mantenimiento preventivo es una práctica fundamental en el montaje y mantenimiento de equipos informáticos. Este proceso se centra en la prevención de fallos mediante la realización de chequeos periódicos y reparaciones proactivas, en lugar de esperar a que los problemas surjan. El objetivo principal es prolongar la vida útil del equipo, mejorar su rendimiento y reducir el tiempo de inactividad.
+
+En este apartado específico, se aborda la aplicación práctica de técnicas de mantenimiento preventivo en periféricos informáticos. Los periféricos son componentes cruciales que interactúan directamente con los usuarios y otros dispositivos del sistema, como teclados, ratones, monitores y impresoras. Su correcto funcionamiento es esencial para el buen desempeño general de cualquier equipo.
+
+El enfoque aquí es guiado por un recorrido conceptual que comienza con la identificación de los periféricos más comunes y su importancia en el sistema. A continuación, se exploran las técnicas específicas de mantenimiento preventivo que pueden aplicarse a estos componentes, incluyendo limpieza, verificación de conexiones eléctricas y ajuste mecánico cuando sea necesario.
+
+Se destaca la importancia de realizar estas tareas con regularidad y en condiciones adecuadas para evitar daños innecesarios o fallas futuras. Además, se aborda el uso de herramientas y materiales específicos recomendados para cada tipo de periférico, asegurando que el proceso sea seguro y efectivo.
+
+El contenido también incluye consejos sobre cómo programar y documentar los chequeos preventivos, lo que facilita la gestión del mantenimiento a largo plazo. Se enfatiza la importancia de mantener un registro detallado de todas las actividades realizadas y sus resultados, lo cual es crucial para el diagnóstico y solución de problemas en el futuro.
+
+A lo largo de este apartado, se proporcionan ejemplos prácticos y procedimientos paso a paso que ilustran cómo aplicar estas técnicas en situaciones reales. El objetivo final es equipar al lector con las habilidades necesarias para realizar un mantenimiento preventivo eficiente y seguro en periféricos informáticos, contribuyendo así a la optimización del rendimiento y la durabilidad de los equipos.

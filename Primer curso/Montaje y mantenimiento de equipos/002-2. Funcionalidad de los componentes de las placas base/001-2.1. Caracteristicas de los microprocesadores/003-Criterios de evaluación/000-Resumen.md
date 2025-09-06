@@ -1,0 +1,13 @@
+La carpeta `Primer curso/Montaje y mantenimiento de equipos/002-2. Funcionalidad de los componentes de las placas base/001-2.1. Caracteristicas de los microprocesadores/003-Criterios de evaluación` se centra en proporcionar un análisis detallado y riguroso de los criterios utilizados para evaluar la funcionalidad y desempeño de los microprocesadores, que son componentes esenciales en las placas base de computadoras. Este nivel del contenido ofrece una comprensión profunda de cómo se seleccionan, prueban y califican los microprocesadores según diversos parámetros técnicos.
+
+El propósito principal de esta carpeta es guiar al lector a través de un proceso sistemático de evaluación que abarca desde las especificaciones básicas hasta las consideraciones avanzadas. Comienza con una introducción general sobre la importancia de los microprocesadores en el funcionamiento de las computadoras, destacando su papel como el "cérebro" del sistema.
+
+A continuación, se presenta un análisis detallado de los criterios utilizados para evaluar la funcionalidad y desempeño de los microprocesadores. Estos criterios incluyen la velocidad de procesamiento, la arquitectura, la eficiencia energética, la capacidad de manejo de múltiples tareas simultáneamente (multitarea) y la compatibilidad con diferentes tipos de sistemas operativos.
+
+El enfoque del contenido es práctico y orientado a la aplicación real. Se proporcionan ejemplos concretos de microprocesadores populares y cómo se han evaluado según los criterios mencionados, lo que permite al lector visualizar cómo estos parámetros afectan el rendimiento general del sistema.
+
+Además, se aborda la importancia de considerar no solo las especificaciones técnicas, sino también factores como la confiabilidad y el costo. Se discute cómo estas consideraciones pueden influir en la elección del microprocesador adecuado para un proyecto específico.
+
+El recorrido conceptual típico en este nivel implica una transición progresiva de los conceptos básicos a las aplicaciones prácticas. Comienza con una comprensión inicial de lo que son los microprocesadores y cómo funcionan, luego se profundiza en el análisis de sus especificaciones técnicas y finalmente se concluye con la aplicación de estos conocimientos en situaciones reales.
+
+En resumen, esta carpeta proporciona un recurso valioso para aquellos interesados en comprender mejor los microprocesadores y cómo se evalúan. Ofrece una visión completa del proceso de evaluación y su relevancia práctica, preparando al lector para abordar con confianza temas más avanzados relacionados con la montaje y mantenimiento de equipos informáticos.
