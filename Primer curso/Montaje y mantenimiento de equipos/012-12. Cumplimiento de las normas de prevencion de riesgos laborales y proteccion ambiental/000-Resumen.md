@@ -1,0 +1,13 @@
+La carpeta `Primer curso/Montaje y mantenimiento de equipos/012-12. Cumplimiento de las normas de prevención de riesgos laborales y protección ambiental` se centra en una unidad didáctica que aborda aspectos cruciales del trabajo seguro y sostenible. Este nivel de la jerarquía busca proporcionar a los estudiantes un entendimiento profundo de cómo aplicar las normativas vigentes para proteger tanto al personal como el medio ambiente durante la montaje y mantenimiento de equipos.
+
+El propósito principal es equipar a los participantes con conocimientos prácticos y teóricos sobre las medidas preventivas necesarias en entornos laborales, así como las prácticas que promueven la sostenibilidad. El enfoque se centra en la prevención de riesgos laborales, incluyendo el manejo adecuado de equipos y materiales, la implementación de protocolos de seguridad y la formación continua del personal.
+
+El recorrido conceptual típico comienza con una introducción a las normativas vigentes que regulan el trabajo seguro en entornos industriales. A continuación, se aborda la prevención de riesgos laborales específicos asociados con el montaje y mantenimiento de equipos, como caídas, cortocircuitos o exposición a sustancias químicas.
+
+Se profundiza en los protocolos de seguridad que deben seguirse durante las actividades de montaje y mantenimiento, incluyendo la utilización de equipo personal de protección (PPE), el manejo adecuado de herramientas y equipos eléctricos, y las medidas para prevenir accidentes. También se discute la importancia del mantenimiento regular de los equipos para minimizar riesgos.
+
+El enfoque también aborda aspectos ambientales, destacando la necesidad de implementar prácticas que reduzcan el impacto medioambiental durante el montaje y mantenimiento de equipos. Esto incluye la selección de materiales sostenibles, la gestión responsable del desecho y la promoción de procesos de producción limpios.
+
+Además, se proporcionan ejemplos prácticos de cómo aplicar estas normativas y protocolos en situaciones reales, junto con actividades de simulación y ejercicios para fortalecer el conocimiento y habilidades de los participantes. El recorrido culmina con una reflexión sobre la importancia del cumplimiento de las normas de seguridad y protección ambiental en la industria, y cómo estos principios pueden aplicarse en diferentes contextos laborales.
+
+En resumen, esta unidad didáctica es un recurso valioso para aquellos que desean comprender y aplicar las normativas de seguridad laboral y protección ambiental en el contexto del montaje y mantenimiento de equipos. Proporciona una base sólida para la formación continua y mejora continua en estos aspectos cruciales del trabajo seguro y sostenible.
