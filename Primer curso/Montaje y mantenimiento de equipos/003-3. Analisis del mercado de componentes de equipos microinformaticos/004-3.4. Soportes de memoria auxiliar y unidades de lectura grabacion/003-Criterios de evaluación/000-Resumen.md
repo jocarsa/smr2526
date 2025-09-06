@@ -1,0 +1,13 @@
+La carpeta `Primer curso/Montaje y mantenimiento de equipos/003-3. Analisis del mercado de componentes de equipos microinformaticos/004-3.4. Soportes de memoria auxiliar y unidades de lectura grabacion/003-Criterios de evaluación` aborda el análisis detallado de los soportes de memoria auxiliar y las unidades de lectura/grabación en el mercado actual, proporcionando criterios específicos para su evaluación. Este nivel del contenido se centra en la comprensión profunda de estas tecnologías críticas que son fundamentales para el funcionamiento eficiente de los equipos microinformáticos.
+
+El propósito principal es equipar al lector con una visión crítica y exhaustiva sobre las opciones disponibles en el mercado, considerando factores como capacidad, velocidad, durabilidad, compatibilidad y costo. El enfoque aquí es no solo presentar información técnica, sino también ofrecer perspectivas prácticas y orientadas a la toma de decisiones informadas.
+
+El recorrido conceptual típico comienza con una introducción general sobre los soportes de memoria auxiliar y las unidades de lectura/grabación, destacando su papel en el almacenamiento y acceso rápido de datos. A continuación, se profundiza en la caracterización de diferentes tipos de estos componentes, como discos duros internos, discos duros externos, SSDs, USB flash drives, CD-ROMs, DVD-ROMs, Blu-ray drives y tarjetas SD.
+
+El contenido ofrece una evaluación criteriosa de cada tipo, considerando aspectos técnicos como velocidad de acceso, capacidad de almacenamiento, durabilidad y seguridad. Se analizan las ventajas y desventajas de cada opción, ayudando al lector a identificar cuál es la mejor elección según sus necesidades específicas.
+
+Además, se aborda el tema del mantenimiento y actualización de estos componentes, destacando la importancia de mantenerlos en óptimas condiciones para garantizar el rendimiento continuo del equipo. Se proporcionan consejos prácticos sobre cómo realizar estas tareas de manera segura y eficiente.
+
+El recorrido culmina con una sección dedicada a los criterios de evaluación, que sirve como guía práctica para la selección de soportes de memoria auxiliar y unidades de lectura/grabación. Estos criterios incluyen factores como capacidad requerida, velocidad necesaria, costo-beneficio, compatibilidad con el sistema operativo y las aplicaciones utilizadas, así como consideraciones específicas para entornos empresariales o domésticos.
+
+En resumen, esta carpeta ofrece una visión integral y práctica del mercado de soportes de memoria auxiliar y unidades de lectura/grabación, proporcionando al lector las herramientas necesarias para tomar decisiones informadas sobre su adquisición y mantenimiento.
