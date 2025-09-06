@@ -1,0 +1,13 @@
+El mantenimiento preventivo es una práctica fundamental en el montaje y mantenimiento de equipos microinformáticos, destinada a prevenir fallos y prolongar la vida útil del equipo. Este proceso implica realizar acciones periódicas para mantener los componentes funcionando correctamente y evitar problemas potenciales.
+
+En esta carpeta, se presentan ejercicios prácticos centrados en las técnicas de mantenimiento preventivo específicas para equipos microinformáticos. Estos ejercicios son diseñados para ayudar a los profesionales del campo a aplicar conocimientos teóricos en situaciones reales, desarrollando habilidades cruciales como la identificación y corrección de problemas potenciales antes de que se conviertan en fallos.
+
+El enfoque aquí es práctico y orientado a la aplicación inmediata. Cada ejercicio incluye una descripción del problema o situación, pasos detallados para resolverlo y un análisis final para evaluar el éxito de la solución implementada. Este enfoque práctico permite a los estudiantes aplicar directamente lo aprendido en contextos reales, fomentando la comprensión profunda y la confianza en las habilidades técnicas.
+
+El recorrido conceptual típico en esta carpeta comienza con una introducción general sobre el mantenimiento preventivo y sus beneficios. A continuación, se presentan diferentes técnicas de mantenimiento preventivo específicas para equipos microinformáticos, como la limpieza del equipo, la verificación de los componentes internos y la actualización del software.
+
+A medida que avanzamos en los ejercicios, el nivel de dificultad aumenta, introduciendo problemas más complejos y soluciones más sofisticadas. Los estudiantes son guiados a través de cada paso del proceso, desde la identificación del problema hasta la implementación de la solución y su validación.
+
+Es importante destacar que este enfoque práctico no solo se centra en resolver problemas existentes, sino también en prevenir futuros problemas mediante el mantenimiento regular. Los estudiantes aprenden a realizar chequeos preventivos sistemáticos, identificar tendencias y anomalías tempranas, y tomar medidas proactivas para mantener el equipo en óptimas condiciones.
+
+En conclusión, esta carpeta ofrece una serie de ejercicios prácticos centrados en las técnicas de mantenimiento preventivo específicas para equipos microinformáticos. A través de la aplicación directa de conocimientos teóricos en situaciones reales, los estudiantes desarrollan habilidades cruciales que les permitirán mantener eficazmente los equipos informáticos y prevenir problemas potenciales antes de que se conviertan en fallos.
