@@ -1,0 +1,13 @@
+La carpeta `Primer curso/Aplicaciones ofimaticas/007-7. Elaboracion de presentaciones/002-7.2. Formateo de diapositivas, textos y objetos/003-Criterios de evaluación` se centra en el proceso detallado del formateo de diapositivas, textos y objetos dentro del contexto de la creación de presentaciones utilizando aplicaciones ofimáticas. Este nivel específico aborda los criterios que deben cumplirse para evaluar eficazmente el trabajo realizado en este aspecto crucial del diseño de presentaciones.
+
+El objetivo principal es proporcionar una guía exhaustiva sobre cómo formatear diapositivas, textos y objetos de manera profesional y coherente. Esto incluye la elección de fuentes, colores, tamaños de texto, alineación y distribución de elementos visuales para crear presentaciones impactantes y fácilmente legibles.
+
+El enfoque aquí es práctico y orientado a la aplicación directa. Se presentan las mejores prácticas y técnicas utilizadas por profesionales en el campo para formatear diapositivas, textos y objetos de manera efectiva. El contenido aborda desde los fundamentos básicos hasta conceptos más avanzados, proporcionando un marco completo para evaluar la calidad del trabajo en este aspecto.
+
+El recorrido conceptual típico en esta carpeta comienza con una introducción a los elementos clave que se pueden formatear en las diapositivas de una presentación. A continuación, se profundiza en cada uno de estos elementos, explicando cómo aplicar diferentes estilos y formatos para mejorar la apariencia visual y la comprensión del contenido.
+
+A lo largo del camino, se presentan ejemplos prácticos y guías paso a paso que ilustran cómo formatear diapositivas, textos y objetos de manera efectiva. También se discuten las mejores prácticas en términos de accesibilidad y usabilidad, asegurando que las presentaciones sean fáciles de leer y entender para todos los públicos.
+
+El contenido finalmente aborda la evaluación del trabajo realizado en este aspecto crucial del diseño de presentaciones. Se proporcionan criterios específicos y métodos para evaluar la calidad del formateo de diapositivas, textos y objetos, asegurando que el trabajo cumpla con los estándares profesionales requeridos.
+
+En resumen, esta carpeta ofrece una guía completa y práctica sobre cómo formatear diapositivas, textos y objetos en aplicaciones ofimáticas para crear presentaciones impactantes y profesionalmente presentadas. El contenido se centra en proporcionar un marco completo de conocimientos y habilidades necesarias para evaluar eficazmente el trabajo realizado en este aspecto crucial del diseño de presentaciones.

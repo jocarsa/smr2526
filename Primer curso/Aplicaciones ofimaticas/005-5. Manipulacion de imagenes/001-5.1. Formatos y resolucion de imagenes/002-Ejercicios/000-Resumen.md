@@ -1,0 +1,11 @@
+La carpeta `Primer curso/Aplicaciones ofimaticas/005-5. Manipulacion de imagenes/001-5.1. Formatos y resolucion de imagenes/002-Ejercicios` se centra en proporcionar una comprensión detallada sobre los formatos de archivo y la resolución de las imágenes, dos aspectos fundamentales para el manejo eficiente de contenido visual en aplicaciones ofimáticas. 
+
+En este nivel específico, el enfoque es práctico y orientado a la aplicación directa de conocimientos teóricos sobre formatos de imagen como JPEG, PNG, GIF y BMP, así como la resolución de imágenes en píxeles por pulgada (DPI). Los estudiantes aprenderán cómo seleccionar el formato adecuado para diferentes tipos de contenido y cómo ajustar la resolución para optimizar el tamaño del archivo y la calidad visual.
+
+El recorrido conceptual típico comienza con una introducción a los formatos de imagen más utilizados, explicando sus características distintivas y las situaciones en las que son más apropiados. A continuación, se profundiza en la resolución de imágenes, destacando cómo afecta al tamaño del archivo, la calidad visual y el rendimiento de las aplicaciones.
+
+Los estudiantes realizarán ejercicios prácticos para aplicar lo aprendido, experimentando con diferentes formatos y niveles de resolución. Estos ejercicios pueden incluir la conversión entre formatos, la modificación de la resolución de imágenes y la evaluación del impacto en el tamaño del archivo y la calidad visual.
+
+Además, se abordarán temas relacionados con la optimización de imágenes para diferentes plataformas y dispositivos, lo que es crucial en un mundo cada vez más digitalizado. Los estudiantes aprenderán cómo ajustar las dimensiones y resolución de las imágenes para garantizar su visualización óptima en diversos contextos.
+
+El objetivo final es equipar a los estudiantes con una sólida comprensión práctica de los formatos y resoluciones de imagen, habilidades que les permitirán manejar eficientemente el contenido visual en aplicaciones ofimáticas, mejorar la calidad del trabajo y optimizar recursos. A través de esta carpeta, se proporciona un enfoque práctico y orientado a la aplicación directa de conocimientos teóricos sobre formatos de imagen y resolución, preparando a los estudiantes para enfrentar desafíos más complejos en el campo del manejo de contenido visual.
