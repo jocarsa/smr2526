@@ -1,0 +1,15 @@
+La carpeta `Primer curso/Aplicaciones ofimaticas/005-5. Manipulacion de imagenes/003-5.3. Importacion y exportacion de imagenes/002-Ejercicios` se centra en proporcionar ejercicios prácticos relacionados con la importación y exportación de imágenes en aplicaciones ofimáticas. Este nivel específico del contenido está diseñado para complementar los conceptos teóricos presentados en las carpetas superiores, enfocándose en la práctica directa.
+
+Los ejercicios aquí incluyen una variedad de tareas que permiten al estudiante experimentar y entender mejor cómo importar diferentes formatos de imágenes y exportarlas para su uso en diversos contextos. Desde el manejo básico de archivos hasta la optimización de imágenes para diferentes propósitos, estos ejercicios cubren aspectos cruciales de la manipulación de imágenes en aplicaciones ofimáticas.
+
+El enfoque en esta carpeta es práctico y orientado a la solución de problemas concretos. Los estudiantes aprenderán cómo utilizar las herramientas disponibles en sus aplicaciones ofimáticas para importar y exportar imágenes, así como cómo ajustar los parámetros de calidad y formato según sea necesario. Esto les permitirá trabajar eficientemente con imágenes en diversos proyectos académicos y profesionales.
+
+El recorrido conceptual típico en este nivel comienza con una introducción a la importación de diferentes formatos de imágenes, incluyendo JPEG, PNG, GIF y BMP. Los estudiantes aprenderán cómo abrir archivos desde el sistema de archivos y cargarlos en su aplicación ofimática para su edición o análisis.
+
+Luego, se aborda la exportación de imágenes, enseñando a los estudiantes cómo guardar sus modificaciones en diferentes formatos y con diferentes parámetros de calidad. Esto incluye la comprensión de cómo ajustar el tamaño, la resolución y otros atributos de las imágenes para optimizar su uso en diversos medios.
+
+A lo largo del recorrido, se presentan ejercicios que permiten al estudiante aplicar estos conceptos en situaciones reales. Estos pueden incluir la importación de imágenes desde diferentes fuentes (como el internet o dispositivos móviles), la edición de estas imágenes para su uso en documentos ofimáticos, y la exportación de las imágenes finalizadas para compartirlas o insertarlas en otros proyectos.
+
+Además, los ejercicios aquí pueden incluir problemas que requieren una comprensión más profunda del manejo de imágenes en aplicaciones ofimáticas. Por ejemplo, se pueden presentar situaciones donde es necesario optimizar la calidad de las imágenes para su uso en publicaciones digitales o para compartirlas en redes sociales.
+
+En resumen, esta carpeta proporciona un entorno práctico y orientado a la solución de problemas que permite a los estudiantes aplicar los conceptos teóricos aprendidos sobre la manipulación de imágenes en aplicaciones ofimáticas. A través de una serie de ejercicios que abordan desde la importación hasta la exportación, los estudiantes adquieren habilidades prácticas esenciales para trabajar con imágenes en diversos contextos académicos y profesionales.
