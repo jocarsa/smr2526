@@ -1,3 +1,13 @@
-# Contenidos básicos
+La placa base es el cerebro del equipo informático, donde se integran todos los componentes necesarios para su funcionamiento. En esta subunidad, nos centraremos en la funcionalidad de los conectores E/S (Entrada/Salida) que son fundamentales para permitir la comunicación entre el sistema y el exterior.
 
-Escribe aquí los contenidos esenciales.
+Los conectores E/S en una placa base se diseñan para facilitar la interconexión con diversos periféricos, desde dispositivos de entrada como teclados y ratones hasta dispositivos de salida como monitores y impresoras. Cada tipo de dispositivo requiere un tipo específico de conector para asegurar una conexión correcta.
+
+El primer tipo de conectores E/S que examinaremos son los conectores para periféricos de entrada, como teclados y ratones. Estos conectores suelen ser de tipo PS/2 o USB. El PS/2 es un estándar antiguo que utiliza dos cables separados para la entrada y salida, mientras que el USB (Universal Serial Bus) ha reemplazado a los PS/2 en gran medida debido a su versatilidad y capacidad para manejar múltiples dispositivos.
+
+Los conectores de periféricos de entrada son esenciales para permitir la interacción del usuario con el sistema. El teclado, por ejemplo, utiliza un conector USB o PS/2 para enviar los datos de las pulsaciones a la placa base. De manera similar, el ratón también utiliza uno de estos conectores para transmitir información sobre su movimiento y clics.
+
+Además de los periféricos de entrada, los conectores E/S en una placa base incluyen también aquellos necesarios para conectar dispositivos de salida. Los monitores, por ejemplo, utilizan un conector VGA o DVI para recibir la señal de video desde la placa base. Otros dispositivos como impresoras y escáneres también requieren conectores específicos para funcionar correctamente.
+
+Es importante destacar que los conectores E/S en una placa base no solo permiten la interconexión física, sino que también facilitan el control de las señales eléctricas necesarias para su funcionamiento. Por ejemplo, los conectores USB utilizan varias pares de conductores para transmitir datos bidireccionalmente, mientras que los conectores VGA y DVI utilizan un solo par de conductores para enviar la señal de video.
+
+En resumen, los conectores E/S en una placa base son componentes cruciales que permiten la interconexión entre el sistema y diversos periféricos. Cada tipo de dispositivo requiere un conector específico para asegurar una conexión correcta, lo que facilita la comunicación y el funcionamiento del equipo informático. Comprender los diferentes tipos de conectores E/S es fundamental para el montaje y mantenimiento de equipos informáticos, ya que permite identificar y solucionar problemas relacionados con la interconexión de periféricos.

@@ -10,9 +10,14 @@ Nueva lógica solicitada:
      - Crear subcarpeta "001-Contenidos básicos"
      - Dentro, "Contenidos básicos.md"
      - No sobrescribir si ya existe con contenido (sí si está vacío).
+     - ADICIONAL: Si el archivo existe pero tiene el marcador por defecto
+       "# Contenidos básicos\n\nEscribe aquí los contenidos esenciales."
+       o menos de MIN_CHARS_BASICO caracteres, se considera "vacío" y se genera texto.
 3) En cualquier otro caso (curso, asignatura, unidad didáctica, u otros apartados):
      - Crear en la carpeta actual un archivo "000-Resumen.md" (sin subcarpeta)
      - No sobrescribir si ya existe con contenido (sí si está vacío).
+     - ADICIONAL: Nunca crear "000-Resumen.md" en carpetas
+       "002-Ejercicios", "003-Criterios de evaluación" o "003-Criterios de evaluacion".
 
 Estilo:
 - EXACTAMENTE 10 párrafos, prosa, tono literario y didáctico.
@@ -48,11 +53,18 @@ NUM_CTX = int(os.environ.get("OLLAMA_NUM_CTX", "65536"))
 # Excluir directorios en cualquier nivel
 EXCLUDE_DIRS = {
     ".git",
-    # Solicitud: hacer invisibles para el cómputo
+    # Invisibles para el cómputo
     "101-Ejercicios",
     "201-Criterios de evaluación",
-    "201-Criterios de evaluacion",  # variante sin tilde por si acaso
+    "201-Criterios de evaluacion",  # sin tilde
     # añade aquí p.ej. "node_modules", ".venv", "dist", "build", "moodledata", etc.
+}
+
+# Bloqueos específicos para NO crear 000-Resumen.md
+BLOCK_RESUMEN_DIRNAMES = {
+    "002-Ejercicios",
+    "003-Criterios de evaluación",
+    "003-Criterios de evaluacion",  # sin tilde
 }
 
 # Pausa entre peticiones
@@ -62,6 +74,10 @@ SLEEP_BETWEEN_REQUESTS = float(os.environ.get("OLLAMA_SLEEP", "0.5"))
 OUTPUT_SUBFOLDER = "001-Contenidos básicos"
 OUTPUT_BASICO = "Contenidos básicos.md"
 OUTPUT_RESUMEN = "000-Resumen.md"
+
+# Heurística de "contenido suficiente" para Contenidos básicos
+MIN_CHARS_BASICO = int(os.environ.get("MIN_CHARS_BASICO", "120"))
+BASICO_PLACEHOLDER = "# Contenidos básicos\n\nEscribe aquí los contenidos esenciales.".strip()
 
 # ---------------------- UTILIDADES ----------------------
 
@@ -88,7 +104,6 @@ def build_tree(root: Path) -> str:
             connector = "└── " if i == total - 1 else "├── "
             lines.append(prefix + connector + entry.name + ("/" if entry.is_dir() else ""))
             if entry.is_dir():
-                # No bajar a directorios excluidos
                 if is_excluded_dir(entry):
                     continue
                 extension = "    " if i == total - 1 else "│   "
@@ -155,14 +170,29 @@ def has_child_dirs(folder: Path) -> bool:
     return False
 
 
-def should_write(path: Path) -> Tuple[bool, str]:
-    """
-    Decide si se debe escribir en `path`.
+def file_text_or_empty(path: Path) -> str:
+    try:
+        return path.read_text(encoding="utf-8")
+    except Exception:
+        return ""
 
-    Devuelve:
-      - (True, "crear") si no existe (se creará).
-      - (True, "sobrescribir_vacio") si existe y está vacío (se sobrescribirá).
-      - (False, "omitir_contenido") si existe y tiene contenido (no se toca).
+
+def is_placeholder_or_short(text: str, min_chars: int) -> bool:
+    """Devuelve True si el texto coincide con el placeholder o es muy corto."""
+    t = text.strip()
+    if not t:
+        return True
+    if t == BASICO_PLACEHOLDER:
+        return True
+    return len(t) < min_chars
+
+
+def should_write_generic(path: Path) -> Tuple[bool, str]:
+    """
+    Decide si se debe escribir en `path` para archivos genéricos (regla por tamaño).
+    - True/"crear"              si no existe
+    - True/"sobrescribir_vacio" si existe y está vacío
+    - False/"omitir_contenido"  si existe con contenido
     """
     if not path.exists():
         return True, "crear"
@@ -170,7 +200,28 @@ def should_write(path: Path) -> Tuple[bool, str]:
         if path.is_file() and path.stat().st_size == 0:
             return True, "sobrescribir_vacio"
     except OSError:
-        # Si no se puede leer tamaño por algún motivo, mejor no tocarlo
+        return False, "omitir_contenido"
+    return False, "omitir_contenido"
+
+
+def should_write_basicos(path: Path) -> Tuple[bool, str]:
+    """
+    Decide si escribir en 'Contenidos básicos.md', considerando placeholder y longitud mínima.
+    - True/"crear"                     si no existe
+    - True/"sobrescribir_vacio"        si tamaño 0
+    - True/"placeholder_o_corto"       si tiene placeholder o es corto (< MIN_CHARS_BASICO)
+    - False/"omitir_contenido"         si tiene contenido suficiente
+    """
+    if not path.exists():
+        return True, "crear"
+    try:
+        if path.is_file():
+            if path.stat().st_size == 0:
+                return True, "sobrescribir_vacio"
+            text = file_text_or_empty(path)
+            if is_placeholder_or_short(text, MIN_CHARS_BASICO):
+                return True, "placeholder_o_corto"
+    except OSError:
         return False, "omitir_contenido"
     return False, "omitir_contenido"
 
@@ -211,12 +262,11 @@ def main():
 
     # 4) Procesar cada carpeta
     for d in target_dirs:
-        # Omitir carpetas contenedoras ya de salida
+        # Omitir la propia carpeta contenedora de básicos
         if d.name == OUTPUT_SUBFOLDER:
             print(f"[→] Carpeta contenedora detectada, se omite: {d}")
             continue
 
-        # Seguridad extra: si por cualquier razón aparece una de las invisibles, saltar
         if is_excluded_dir(d):
             print(f"[→] Directorio excluido (invisible): {d}")
             continue
@@ -225,7 +275,6 @@ def main():
         depth = depth_relative(base, d)
         etiqueta = label_for_depth(depth)
 
-        # Determinar si es "subunidad didáctica"
         is_subunidad = (etiqueta == "subunidad didáctica")
 
         if is_subunidad:
@@ -241,13 +290,15 @@ def main():
                     print(f"[!] No se pudo crear {out_dir}: {e}")
                     continue
 
-            write_ok, reason = should_write(out_path)
+            write_ok, reason = should_write_basicos(out_path)
             if not write_ok:
-                print(f"[→] Ya existe con contenido, se omite: {out_path}")
+                print(f"[→] Ya existe con contenido suficiente, se omite: {out_path}")
                 continue
             else:
                 if reason == "sobrescribir_vacio":
                     print(f"[!] Archivo vacío encontrado, se sobrescribirá: {out_path}")
+                elif reason == "placeholder_o_corto":
+                    print(f"[!] Archivo con placeholder o corto, se sobrescribirá: {out_path}")
                 else:
                     print(f"[+] Se creará nuevo archivo: {out_path}")
 
@@ -284,10 +335,15 @@ def main():
                 print(f"[!] No se pudo escribir {out_path}: {e}")
 
         else:
-            # Caso 3: crear "000-Resumen.md" en la carpeta actual (sin subcarpeta)
+            # Caso 3: crear "000-Resumen.md" en la carpeta actual (sin subcarpeta),
+            # salvo que la carpeta esté bloqueada para resúmenes.
+            if d.name in BLOCK_RESUMEN_DIRNAMES:
+                print(f"[→] Carpeta marcada para NO crear resumen, se omite: {d}")
+                continue
+
             out_path = d / OUTPUT_RESUMEN
 
-            write_ok, reason = should_write(out_path)
+            write_ok, reason = should_write_generic(out_path)
             if not write_ok:
                 print(f"[→] Ya existe con contenido, se omite: {out_path}")
                 continue

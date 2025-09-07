@@ -1,3 +1,9 @@
-# Contenidos básicos
+En la subunidad didáctica "Impresoras. Scanner", se profundiza en los aspectos técnicos y prácticos de estos dispositivos imprescindibles para el funcionamiento eficiente de cualquier sistema informático. Comenzando por las impresoras, se explica cómo funcionan internamente, desde su conexión hasta la salida del papel impreso. Se detalla el proceso de transferencia de toner o tinta a la hoja y cómo este proceso puede variar según el tipo de impresora (laser, inyección de tinta, etc.). Además, se aborda la importancia de mantener las impresoras limpias y calibradas para garantizar una calidad óptima del texto e imágenes.
 
-Escribe aquí los contenidos esenciales.
+Continuando con los scanners, se explica cómo estos dispositivos digitan la información impresa o escaneada en formato digital. Se detalla el proceso de captura de imagen y su conversión a un formato que pueda ser procesado por computadora. Se aborda también la importancia de calibrar los scanners para obtener imágenes de alta calidad y cómo manejar diferentes tipos de documentos, desde hojas de texto hasta imágenes.
+
+Además, se discute sobre las opciones de configuración disponibles en ambos dispositivos, como el tipo de papel soportado, la velocidad de impresión o escaneo, y las funciones adicionales como el doblado automático o la separación de papeles. Se explica cómo utilizar estas funciones para optimizar el rendimiento del dispositivo y mejorar la eficiencia en tareas diarias.
+
+Finalmente, se aborda la importancia de la seguridad y el mantenimiento regular tanto de las impresoras como de los scanners. Se explica cómo limpiar los componentes internos para evitar problemas de calefacción o obstrucciones, y cómo realizar chequeos periódicos para detectar y solucionar cualquier anomalía que pueda surgir.
+
+A lo largo de esta subunidad, se proporcionan ejemplos prácticos y consejos útiles para el uso diario de impresoras y scanners. Se incluyen instrucciones paso a paso para configurar y calibrar estos dispositivos, así como recomendaciones sobre cómo mantenerlos en óptimas condiciones para un funcionamiento continuo sin interrupciones.

@@ -1,3 +1,13 @@
-# Contenidos básicos
+En esta subunidad didáctica, nos centraremos en los resultados esperados del aprendizaje y los criterios de evaluación para la comprensión y aplicación de los conceptos relacionados con las redes locales. El objetivo es que los estudiantes puedan demostrar su conocimiento sobre cómo configurar y gestionar una red local eficazmente, desde la instalación inicial hasta la monitorización y solución de problemas.
 
-Escribe aquí los contenidos esenciales.
+Comenzaremos por definir qué significa un resultado esperado del aprendizaje en el contexto de las redes locales. Estos resultados son aquellas habilidades o conocimientos específicos que los estudiantes deben adquirir a lo largo del proceso educativo. En este caso, los resultados esperados incluirán la capacidad para configurar correctamente una red local, gestionar usuarios y grupos, compartir recursos, monitorear el rendimiento del sistema y resolver problemas comunes.
+
+A continuación, exploraremos cómo se establecen criterios de evaluación en esta subunidad. Estos criterios son las métricas utilizadas para medir la eficacia del aprendizaje alcanzado. En este caso, los criterios podrían incluir pruebas prácticas donde los estudiantes deben configurar una red local, resolver problemas de rendimiento o documentar un incidente de red.
+
+Desarrollaremos también el concepto de hilo expositivo continuo en la narración didáctica. Este enfoque implica presentar información de manera coherente y lógica, sin saltos bruscos entre temas. En nuestra subunidad, cada párrafo se conectará con el anterior para formar una historia continua sobre cómo los estudiantes pueden aplicar sus conocimientos en la práctica.
+
+Además, introduciremos el concepto de integración de sistemas operativos en red libres y propietarios. Esto implicará que los estudiantes aprendan a trabajar con diferentes tipos de software, lo cual es crucial en un entorno profesional donde se utilizan tanto sistemas operativos abiertos como comerciales.
+
+Finalmente, exploraremos la aplicación de técnicas de soporte en las redes locales. Esto incluirá el desarrollo de guías y manuales de usuario, así como la formación al usuario. Estas habilidades son fundamentales para que los usuarios puedan utilizar eficazmente la red local y resolver problemas comunes por sí mismos.
+
+En resumen, esta subunidad didáctica se centra en los resultados esperados del aprendizaje y los criterios de evaluación para configurar y gestionar una red local. A través de un hilo expositivo continuo, los estudiantes aprenderán a aplicar sus conocimientos en la práctica y desarrollar habilidades cruciales para el soporte técnico en redes locales.

@@ -1,3 +1,15 @@
-# Contenidos básicos
+En este capítulo, nos adentramos en la comprensión del mercado de componentes de equipos microinformáticos con un énfasis especial en los soportes de memoria auxiliar y las unidades de lectura/grabación. Comenzamos por explorar el concepto de memoria auxiliar, que es fundamental para almacenar datos temporales mientras se ejecutan programas o sistemas operativos. Los tipos más comunes de memorias auxiliares incluyen la RAM (Memoria Random Access Memory) y la ROM (Read-Only Memory), cada una con sus propias características y usos específicos.
 
-Escribe aquí los contenidos esenciales.
+La RAM es el tipo de memoria que permite acceso aleatorio a cualquier ubicación en ella, lo que significa que puede leer o escribir datos en cualquier momento. Es crucial para el funcionamiento eficiente del sistema operativo y de los programas, ya que almacena temporalmente los datos necesarios para su ejecución. Sin embargo, la RAM es volátil, lo que significa que pierde su contenido cuando se apaga el equipo.
+
+Por otro lado, la ROM es una memoria no volátil, lo que significa que mantiene sus datos incluso cuando no hay electricidad. La ROM se utiliza principalmente para almacenar programas de arranque y configuraciones del sistema, garantizando que estos permanezcan inalterados durante todo el ciclo de vida del equipo.
+
+Continuamos nuestro análisis con las unidades de lectura/grabación, que son dispositivos esenciales para la entrada y salida de datos en un ordenador. Los discos duros (HDD) y los discos sólidos (SSD) son los tipos más comunes de unidades de almacenamiento secundario. El HDD es conocido por su capacidad de almacenamiento extensa, aunque su velocidad de acceso puede ser inferior a la de los SSD. Por otro lado, los SSD ofrecen velocidades de lectura y escritura mucho más rápidas, lo que los hace ideales para sistemas que requieren un rendimiento óptimo.
+
+Además de estos discos duros y SSDs, también existen unidades de estado sólido (USSD) y dispositivos de almacenamiento en la nube. Las USSD son discos duros internos con una interfaz USB, lo que las hace ideales para portátiles o dispositivos móviles. Por otro lado, el almacenamiento en la nube ofrece la ventaja de almacenar datos en servidores remotos y acceder a ellos desde cualquier lugar, aunque puede implicar ciertos costos adicionales.
+
+En este capítulo también exploramos los soportes de memoria auxiliar como las tarjetas de expansión. Las tarjetas de expansión son dispositivos que se insertan en el sistema principal para aumentar su capacidad de almacenamiento o mejorar sus capacidades de procesamiento. Los tipos más comunes incluyen las tarjetas de estado sólido (SSD) y las tarjetas de memoria RAM.
+
+Finalmente, es importante destacar la importancia del mantenimiento regular de estos componentes en el funcionamiento óptimo del equipo. El desgaste natural de los discos duros y SSDs puede llevar a problemas de rendimiento o incluso fallas, por lo que es recomendable realizar copias de seguridad periódicas y realizar chequeos regulares para asegurar la salud del sistema.
+
+En resumen, este capítulo proporciona una visión detallada del mercado de componentes de equipos microinformáticos, enfocándose en los soportes de memoria auxiliar y las unidades de lectura/grabación. A través de un análisis exhaustivo de estos dispositivos esenciales, hemos adquirido conocimientos valiosos sobre su funcionamiento, tipos disponibles y importancia para el rendimiento del sistema.
