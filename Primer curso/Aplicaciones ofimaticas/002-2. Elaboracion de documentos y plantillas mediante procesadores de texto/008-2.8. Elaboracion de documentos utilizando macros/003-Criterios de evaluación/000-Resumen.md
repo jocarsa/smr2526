@@ -1,0 +1,13 @@
+La carpeta `Primer curso/Aplicaciones ofimaticas/002-2. Elaboracion de documentos y plantillas mediante procesadores de texto/008-2.8. Elaboracion de documentos utilizando macros/003-Criterios de evaluación` se centra en la enseñanza avanzada del uso de macros en procesadores de texto, como Microsoft Word o LibreOffice Writer. Este nivel del curso asume que los estudiantes ya tienen una comprensión básica de cómo crear y editar documentos con estos programas.
+
+El propósito principal es equipar a los estudiantes con las habilidades necesarias para automatizar tareas repetitivas y mejorar la eficiencia en el creación de documentos utilizando macros personalizadas. A través de este enfoque, se busca no solo enseñar cómo crear macros sencillas, sino también cómo diseñar soluciones más complejas que resuelvan problemas específicos del trabajo diario.
+
+El recorrido conceptual típico comienza con una introducción a los conceptos básicos de las macros y cómo se pueden activar en procesadores de texto. A continuación, se profundiza en la creación de macros simples utilizando el lenguaje de scripting específico del procesador de texto utilizado. Los estudiantes aprenderán a identificar tareas repetitivas en sus documentos y cómo convertirlas en macros para su automatización.
+
+El curso también aborda la importancia de la seguridad al trabajar con macros, enseñando a los estudiantes cómo identificar y desactivar macros sospechosas o maliciosas. Además, se cubren técnicas avanzadas como el uso de variables, bucles y condiciones en las macros para crear soluciones más flexibles y personalizadas.
+
+A lo largo del recorrido, se presentan ejemplos prácticos y actividades que permiten a los estudiantes aplicar lo aprendido en situaciones reales. Estos ejercicios pueden incluir la creación de macros para formatear documentos automáticamente, generar informes dinámicos o incluso automatizar el procesamiento de datos.
+
+El curso culmina con una sección dedicada a la evaluación y aplicación de los conocimientos adquiridos. Los estudiantes tendrán la oportunidad de diseñar y probar sus propias macros en proyectos reales, lo que les permitirá aplicar las habilidades aprendidas en un entorno práctico.
+
+En resumen, esta carpeta del curso proporciona a los estudiantes una comprensión profunda y práctica de cómo utilizar macros en procesadores de texto para mejorar la eficiencia y automatización en el trabajo con documentos. A través de una combinación teórica y práctica, los estudiantes adquieren habilidades valiosas que les permitirán crear soluciones personalizadas y optimizar sus flujos de trabajo diarios.

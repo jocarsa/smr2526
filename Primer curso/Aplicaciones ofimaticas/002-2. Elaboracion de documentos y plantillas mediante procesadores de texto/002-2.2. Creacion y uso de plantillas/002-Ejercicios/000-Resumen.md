@@ -1,0 +1,13 @@
+La carpeta "Primer curso/Aplicaciones ofimáticas/002-2. Elaboracion de documentos y plantillas mediante procesadores de texto/002-2.2. Creacion y uso de plantillas/002-Ejercicios" se centra en la práctica y aplicación del conocimiento adquirido sobre el uso de procesadores de texto para crear y gestionar plantillas. Este nivel de la jerarquía proporciona un enfoque práctico y orientado a la solución de problemas, permitiendo al aprendiz aplicar los conceptos teóricos aprendidos en contextos reales.
+
+El propósito principal de esta carpeta es ofrecer una serie de ejercicios diseñados para fortalecer las habilidades técnicas necesarias para crear y utilizar plantillas eficientemente en procesadores de texto. A través de estos ejercicios, los estudiantes pueden experimentar con diferentes tipos de plantillas, entender cómo personalizarlas y adaptarlas a sus necesidades específicas.
+
+El recorrido conceptual típico en este nivel comienza con una introducción a la creación básica de plantillas, incluyendo la estructura y el contenido que deben contener. A continuación, se profundiza en los diferentes tipos de plantillas disponibles y cómo utilizarlas para automatizar tareas repetitivas o crear documentos consistentes. Los estudiantes también aprenderán sobre la gestión de variables y funciones dentro de las plantillas, lo que les permitirá personalizar aún más su contenido.
+
+A medida que avanzan en esta carpeta, los ejercicios se vuelven más complejos, incorporando elementos como el uso de condicionales y bucles para crear plantillas dinámicas. Los estudiantes también aprenderán cómo importar y exportar plantillas entre diferentes procesadores de texto, así como cómo compartirlas con otros usuarios.
+
+Los ejercicios proporcionados en esta carpeta no solo enfatizan la creación y uso de plantillas, sino que también abordan aspectos importantes del diseño y la presentación de documentos. Los estudiantes aprenderán a utilizar elementos visuales como imágenes, gráficos y tablas para mejorar la apariencia y el entendimiento de sus documentos.
+
+Además, esta carpeta incluye ejercicios que enfatizan la importancia de la organización y la gestión de plantillas. Los estudiantes aprenderán cómo crear bibliotecas de plantillas y cómo mantenerlas actualizadas y accesibles para su uso futuro.
+
+En resumen, esta carpeta ofrece un enfoque práctico y orientado a la solución de problemas en el ámbito del uso de procesadores de texto para crear y gestionar plantillas. A través de una serie de ejercicios diseñados para aplicar los conceptos teóricos aprendidos, los estudiantes pueden desarrollar las habilidades técnicas necesarias para automatizar tareas repetitivas y crear documentos consistentes y profesionales.

@@ -1,0 +1,11 @@
+La carpeta `Primer curso/Aplicaciones ofimaticas/002-2. Elaboracion de documentos y plantillas mediante procesadores de texto/008-2.8. Elaboracion de documentos utilizando macros/002-Ejercicios` se centra en proporcionar ejercicios prácticos relacionados con la creación de documentos y plantillas utilizando procesadores de texto, con un enfoque especial en el uso de macros.
+
+Los procesadores de texto son herramientas esenciales para la creación y edición de documentos electrónicos. En este nivel específico, los estudiantes aprenderán cómo utilizar macros dentro de estos procesadores para automatizar tareas repetitivas y mejorar la eficiencia en su trabajo diario. Las macros son secuencias de comandos predefinidos que pueden ser ejecutados con un solo clic o comando.
+
+El objetivo principal de esta carpeta es proporcionar a los estudiantes una comprensión práctica y aplicable del uso de macros en procesadores de texto, lo que les permitirá no solo automatizar tareas específicas, sino también mejorar la calidad y eficiencia de sus documentos. A través de un conjunto de ejercicios diseñados para ser completados en el entorno práctico, los estudiantes podrán aplicar los conceptos teóricos aprendidos en el material previo.
+
+Los ejercicios incluyen la creación de macros desde cero, la edición y modificación existentes, y la integración de macros en plantillas. Estas actividades no solo ayudan a fortalecer las habilidades técnicas del estudiante, sino que también promueven una comprensión más profunda de cómo los procesadores de texto pueden ser personalizados para satisfacer las necesidades específicas de cada usuario.
+
+Además, estos ejercicios proporcionan la oportunidad de experimentar con diferentes tipos de macros y entender cómo pueden ser utilizadas en diversos contextos. Desde el formato de tablas hasta el manejo de listas y gráficos, los estudiantes aprenderán a crear macros que aborden una amplia gama de tareas.
+
+En resumen, esta carpeta es un espacio práctico diseñado para ayudar a los estudiantes a dominar la creación y uso de macros en procesadores de texto. A través de una serie de ejercicios interactivos, los estudiantes no solo adquirirán habilidades técnicas valiosas, sino que también desarrollarán una comprensión profunda del potencial de estos programas para mejorar su productividad y eficiencia en el trabajo diario.

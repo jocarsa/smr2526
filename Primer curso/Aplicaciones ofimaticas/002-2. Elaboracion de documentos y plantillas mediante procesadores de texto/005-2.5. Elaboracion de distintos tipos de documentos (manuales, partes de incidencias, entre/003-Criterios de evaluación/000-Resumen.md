@@ -1,0 +1,13 @@
+La carpeta `Primer curso/Aplicaciones ofimaticas/002-2. Elaboracion de documentos y plantillas mediante procesadores de texto/005-2.5. Elaboracion de distintos tipos de documentos (manuales, partes de incidencias, entre` se centra en el proceso detallado de creación de diversos tipos de documentos utilizando procesadores de texto. Este nivel del contenido proporciona una introducción a la elaboración de manuales y partes de incidencias, enfocándose en las técnicas y mejores prácticas necesarias para crear estos documentos de manera efectiva.
+
+El propósito principal es equipar al lector con los conocimientos y habilidades necesarios para generar documentación precisa y profesional. El enfoque aquí es el paso a paso, desde la planificación inicial hasta la revisión final, asegurando que cada tipo de documento cumpla con las expectativas y requisitos específicos.
+
+El recorrido conceptual típico comienza con una introducción general a los procesadores de texto y su importancia en la creación de documentos. A continuación, se detalla el proceso de elaboración de manuales, cubriendo desde la estructura del documento hasta las técnicas para garantizar la claridad y coherencia. Posteriormente, se aborda la creación de partes de incidencias, enfatizando la importancia de la precisión y la concisión en estos documentos.
+
+El contenido también incluye información sobre cómo utilizar plantillas existentes y cómo personalizarlas según las necesidades específicas del proyecto. Se discute el uso de formatos estándar y los elementos visuales que pueden mejorar la legibilidad y profesionalidad de los documentos.
+
+Además, se proporcionan consejos prácticos para la revisión y corrección de errores ortográficos y gramaticales, así como sugerencias sobre cómo mantener un estilo consistente en toda la documentación. El nivel de detalle es suficiente para permitir a los lectores aplicar estos conocimientos directamente en su trabajo diario.
+
+El recorrido culmina con una sección dedicada a la creación de documentos personalizados, donde se exploran técnicas avanzadas y herramientas específicas que pueden facilitar el proceso. Este nivel final proporciona un resumen completo de los pasos necesarios para crear cualquier tipo de documento utilizando procesadores de texto.
+
+En resumen, esta carpeta ofrece una guía exhaustiva y práctica sobre la creación de documentos mediante procesadores de texto, cubriendo desde la planificación inicial hasta la revisión final. El enfoque es práctico y orientado a la aplicación inmediata, proporcionando los conocimientos necesarios para mejorar la calidad y eficiencia del trabajo con documentación en cualquier entorno profesional.

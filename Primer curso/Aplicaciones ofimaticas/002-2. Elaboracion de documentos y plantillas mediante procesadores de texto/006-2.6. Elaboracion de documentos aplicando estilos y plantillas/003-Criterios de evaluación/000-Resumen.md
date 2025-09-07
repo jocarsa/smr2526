@@ -1,0 +1,13 @@
+La carpeta `Primer curso/Aplicaciones ofimaticas/002-2. Elaboracion de documentos y plantillas mediante procesadores de texto/006-2.6. Elaboracion de documentos aplicando estilos y plantillas/003-Criterios de evaluación` se centra en el proceso detallado de creación de documentos utilizando procesadores de texto, con un énfasis especial en la aplicación de estilos y plantillas. Este nivel del contenido proporciona una guía exhaustiva para los estudiantes que desean dominar las técnicas avanzadas de redacción y presentación de información mediante software ofimático.
+
+El propósito principal de esta sección es enseñar a los alumnos cómo optimizar el formato, la apariencia y la coherencia de sus documentos utilizando herramientas como Microsoft Word o Google Docs. A través de una serie de lecciones y ejercicios prácticos, los estudiantes aprenderán a aplicar estilos predefinidos, crear plantillas personalizadas y utilizar funciones avanzadas para mejorar la calidad visual y funcional de sus trabajos.
+
+El enfoque aquí es didáctico y práctico. Cada lección se complementa con ejemplos ilustrativos y actividades que permiten a los estudiantes experimentar directamente las técnicas enseñadas. La estructura del contenido está diseñada para que los alumnos puedan seguir un recorrido lógico, desde conceptos básicos hasta aplicaciones avanzadas.
+
+El recorrido conceptual típico en este nivel comienza con una introducción a la importancia de la estética y la coherencia en la redacción. A continuación, se profundiza en el uso de estilos predefinidos para dar formato uniforme a los documentos. Luego, se enseñan las técnicas avanzadas de creación de plantillas, permitiendo a los estudiantes guardar configuraciones recurrentes y aplicarlas rápidamente a nuevos documentos.
+
+El contenido también aborda la aplicación de funciones específicas como el uso de tablas, listas numeradas y anotadas, así como cómo insertar imágenes y gráficos en los documentos. Además, se explora cómo utilizar las herramientas de revisión y edición para mejorar la calidad del texto.
+
+Finalmente, la sección culmina con una serie de ejercicios prácticos que permiten a los estudiantes aplicar todo lo aprendido en un entorno real. Estos ejercicios incluyen la creación de documentos complejos utilizando estilos y plantillas, así como la revisión y corrección de errores tipográficos y gramaticales.
+
+En resumen, esta carpeta proporciona una guía completa y práctica para el uso avanzado de procesadores de texto en la redacción de documentos. A través de un enfoque didáctico y práctico, los estudiantes aprenderán a optimizar la calidad visual y funcional de sus trabajos, preparándose así para proyectos más complejos en el futuro.

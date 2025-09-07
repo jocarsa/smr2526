@@ -1,0 +1,15 @@
+La carpeta `Primer curso/Aplicaciones ofimaticas/002-2. Elaboracion de documentos y plantillas mediante procesadores de texto/007-2.7. Elaboracion de documentos importando otros documentos/002-Ejercicios` se centra en proporcionar ejercicios prácticos relacionados con la creación y gestión de documentos utilizando procesadores de texto avanzados. Este nivel del contenido sigue el enfoque teórico introducido en los capítulos anteriores sobre la manipulación de documentos y plantillas, pero ahora se enfoca en aplicaciones específicas dentro de un entorno profesional.
+
+Los ejercicios aquí presentan situaciones comunes que los profesionales pueden encontrar en su trabajo diario. Estos ejercicios requieren no solo conocimientos básicos del uso de procesadores de texto, sino también habilidades avanzadas para la integración y la gestión de contenido. Los estudiantes aprenderán a importar y combinar información de múltiples fuentes en un solo documento, lo que es una habilidad valiosa en el mundo profesional.
+
+El propósito principal de esta carpeta es proporcionar a los estudiantes la oportunidad de aplicar sus conocimientos teóricos en situaciones prácticas. A través de estos ejercicios, los estudiantes no solo mejorarán su capacidad técnica, sino también desarrollarán habilidades de pensamiento crítico y resolución de problemas.
+
+El recorrido conceptual típico en este nivel comienza con una revisión rápida de las funciones básicas de un procesador de texto. A continuación, se introduce el concepto de importación de documentos, explicando cómo los usuarios pueden combinar información de diferentes fuentes en un solo documento. Los estudiantes aprenderán a utilizar herramientas específicas para la importación y fusionado de contenido.
+
+A lo largo del camino, los ejercicios progresan en dificultad, introduciendo conceptos más complejos como el manejo de estilos y formatos uniformes entre documentos importados. También se abordarán temas como la gestión de versiones y la colaboración en proyectos de equipo.
+
+Los estudiantes también recibirán instrucciones sobre cómo documentar sus procesos y resultados, lo que es crucial para mantener un historial preciso de las modificaciones realizadas en los documentos. Además, se les enseñará a utilizar herramientas avanzadas de búsqueda y filtrado dentro de los documentos importados, facilitando la localización de información específica.
+
+En el final del recorrido, los estudiantes realizarán proyectos prácticos que combinan todos los conceptos aprendidos hasta ahora. Estos proyectos simularán situaciones reales en el trabajo, permitiendo a los estudiantes aplicar sus habilidades en un entorno más complejo y autónomo.
+
+Este nivel de contenido es esencial para preparar a los estudiantes para enfrentar desafíos profesionales en el uso de procesadores de texto. Al proporcionar una base sólida en la manipulación avanzada de documentos, estos estudiantes estarán mejor preparados para trabajar eficazmente con herramientas informáticas en entornos empresariales y académicos.
