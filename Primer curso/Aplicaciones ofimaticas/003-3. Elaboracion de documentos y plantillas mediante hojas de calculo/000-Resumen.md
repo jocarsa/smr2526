@@ -1,0 +1,11 @@
+La carpeta `Primer curso/Aplicaciones ofimáticas/003-3. Elaboracion de documentos y plantillas mediante hojas de calculo` se centra en el proceso de creación y gestión de documentos y plantillas utilizando herramientas de hojas de cálculo, como Microsoft Excel o Google Sheets. Este nivel del contenido ofrece una introducción a las funcionalidades básicas y avanzadas de estas aplicaciones, enfocándose en cómo crear, editar, formatear y compartir documentos electrónicos.
+
+El propósito principal es equipar al estudiante con las habilidades necesarias para utilizar eficazmente hojas de cálculo en diversos contextos profesionales y académicos. El enfoque se desarrolla a través de una serie de lecciones que van desde los fundamentos básicos hasta conceptos más complejos, como fórmulas avanzadas, gráficos dinámicos y la integración con otras aplicaciones ofimáticas.
+
+El recorrido conceptual típico comienza con las bases del uso de hojas de cálculo, introduciendo al estudiante a cómo organizar datos, realizar cálculos simples y formatear celdas. A medida que avanza, se profundiza en la creación de fórmulas complejas, el uso de funciones estadísticas y financieras, y la creación de gráficos interactivos para visualizar los datos.
+
+La carpeta también aborda aspectos prácticos como la protección de hojas de cálculo, la colaboración en tiempo real con otros usuarios y la exportación de documentos en diversos formatos. Además, se incluyen lecciones sobre cómo crear plantillas personalizadas que puedan ser reutilizadas en diferentes proyectos.
+
+El contenido está diseñado para ser interactivo y práctico, con ejercicios y actividades que permiten al estudiante aplicar los conocimientos adquiridos de manera inmediata. Esto asegura una comprensión profunda y práctica del uso de hojas de cálculo, preparando a los estudiantes para enfrentar desafíos más complejos en el futuro.
+
+En resumen, esta carpeta proporciona un enfoque integral y práctico al aprendizaje del uso de hojas de cálculo, cubriendo desde las bases hasta conceptos avanzados y aplicaciones en diversos contextos. Su objetivo es equipar a los estudiantes con habilidades valiosas que les permitan trabajar eficientemente con datos electrónicos en cualquier entorno profesional o académico.

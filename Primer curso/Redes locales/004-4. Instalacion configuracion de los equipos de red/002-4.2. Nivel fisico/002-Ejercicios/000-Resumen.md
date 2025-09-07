@@ -1,0 +1,11 @@
+La carpeta `Primer curso/Redes locales/004-4. Instalacion configuracion de los equipos de red/002-4.2. Nivel fisico/002-Ejercicios` se centra en la práctica y el desarrollo de habilidades técnicas relacionadas con el nivel físico de la instalación y configuración de equipos de red. Este nivel es crucial para entender cómo los componentes físicos interactúan entre sí y cómo afectan a la funcionalidad general del sistema.
+
+Los ejercicios aquí presentados están diseñados para que los estudiantes apliquen conocimientos teóricos sobre el hardware de red en situaciones prácticas. Comenzarán por identificar y conectar los componentes básicos como adaptadores Ethernet, switches y routers, y luego probarán su funcionamiento mediante pruebas de conectividad.
+
+A lo largo del recorrido conceptual, se abordará la configuración inicial de estos dispositivos, incluyendo la asignación de direcciones IP manuales y la verificación de la comunicación entre equipos. Los estudiantes también aprenderán a utilizar herramientas de diagnóstico para identificar problemas comunes en el nivel físico de la red.
+
+Es importante destacar que este nivel no solo implica la configuración inicial, sino también la monitorización y mantenimiento continuo del hardware de red. Los ejercicios aquí proporcionan una base sólida para entender cómo mantener un sistema de red en óptimas condiciones, lo cual es fundamental para su eficiencia y seguridad.
+
+A medida que avanzan en estos ejercicios, los estudiantes desarrollarán habilidades prácticas cruciales que les permitirán abordar problemas más complejos en el futuro. Estas habilidades incluyen la capacidad de resolver problemas técnicos, realizar cambios en el hardware de red y mantener un sistema de red funcionando de manera eficiente.
+
+En resumen, esta carpeta es una parte integral del proceso educativo que combina teoría con práctica, proporcionando a los estudiantes las herramientas necesarias para entender y configurar el nivel físico de la instalación y mantenimiento de equipos de red. A través de la realización de ejercicios prácticos, los estudiantes adquieren habilidades técnicas esenciales que les permitirán enfrentar desafíos reales en el campo de las redes locales.

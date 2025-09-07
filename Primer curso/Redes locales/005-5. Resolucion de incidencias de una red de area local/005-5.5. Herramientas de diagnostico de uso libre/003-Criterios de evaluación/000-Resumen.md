@@ -1,0 +1,9 @@
+La carpeta `Primer curso/Redes locales/005-5. Resolucion de incidencias de una red de area local/005-5.5. Herramientas de diagnostico de uso libre/003-Criterios de evaluación` se centra en el análisis y evaluación de las herramientas de diagnóstico disponibles para resolver problemas en redes locales. En este nivel, los estudiantes aprenderán a identificar y seleccionar las herramientas más adecuadas según las necesidades específicas del escenario, enfocándose en soluciones gratuitas y de código abierto.
+
+El propósito principal es equipar al estudiante con la capacidad de evaluar y aplicar herramientas de diagnóstico eficaces para resolver problemas comunes en redes locales. Se abordará el análisis de los requisitos del problema, la selección de la herramienta más apropiada y la interpretación de los resultados obtenidos.
+
+El recorrido conceptual típico en este nivel implica una exploración detallada de las características y capacidades de cada herramienta, así como su utilidad en diferentes escenarios. Los estudiantes aprenderán a evaluar el rendimiento, la facilidad de uso y la capacidad de integración con otros sistemas o herramientas existentes.
+
+Además, se enfocará en la documentación adecuada del proceso de diagnóstico y solución de problemas, asegurando que los resultados sean reproducibles y que puedan ser utilizados para mejorar el rendimiento futuro de la red. El objetivo es preparar al estudiante para enfrentar desafíos reales en entornos de red locales, utilizando herramientas eficaces y basadas en soluciones libres.
+
+En resumen, esta carpeta proporciona una comprensión profunda de cómo evaluar y aplicar herramientas de diagnóstico de uso libre en redes locales, preparando al estudiante para resolver problemas reales y mejorar el rendimiento de estas infraestructuras.

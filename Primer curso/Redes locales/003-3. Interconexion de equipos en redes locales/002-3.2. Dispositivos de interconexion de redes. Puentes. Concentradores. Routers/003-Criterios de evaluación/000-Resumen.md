@@ -1,0 +1,13 @@
+La carpeta `Primer curso/Redes locales/003-3. Interconexion de equipos en redes locales/002-3.2. Dispositivos de interconexion de redes. Puentes. Concentradores. Routers/003-Criterios de evaluación` se centra en la comprensión y aplicación de los criterios de evaluación para diferentes tipos de dispositivos de interconexión utilizados en redes locales. Este nivel del contenido proporciona una orientación sobre cómo evaluar el rendimiento, confiabilidad y eficiencia de puentes, concentradores y routers en entornos de red local.
+
+Los puentes son dispositivos que operan a nivel de capa 2 (enlace) del modelo OSI, interconectando segmentos de red y filtrando tráfico según la dirección MAC. El criterio de evaluación para un puente debe considerar su capacidad de manejar el tráfico, su tiempo de procesamiento y su confiabilidad en mantener las conexiones establecidas.
+
+Los concentradores son dispositivos que operan a nivel de capa 1 (física) del modelo OSI, amplificando la señal eléctrica para permitir la comunicación entre múltiples dispositivos. El criterio de evaluación para un concentrador debe incluir su capacidad de manejar el tráfico en función del número de puertos disponibles y su eficiencia en distribuir la señal.
+
+Los routers son dispositivos que operan a nivel de capa 3 (red) del modelo OSI, interconectando diferentes redes y ruteando paquetes según sus direcciones IP. El criterio de evaluación para un router debe considerar su capacidad de manejar el tráfico en función del número de puertos disponibles, su velocidad de procesamiento y su eficiencia en rutear los paquetes.
+
+El recorrido conceptual típico en este nivel implica una exploración detallada de cada tipo de dispositivo de interconexión, sus características y funcionalidades. A partir de aquí, se avanzará a la aplicación práctica de estos dispositivos en entornos de red local, considerando factores como el rendimiento, la confiabilidad y la eficiencia.
+
+El propósito de esta carpeta es proporcionar una comprensión profunda de los criterios de evaluación para diferentes tipos de dispositivos de interconexión utilizados en redes locales. A través del estudio de estos criterios, se desarrollará la capacidad de seleccionar el dispositivo adecuado para un entorno específico y optimizar su desempeño.
+
+En resumen, esta carpeta ofrece una introducción a los criterios de evaluación para puentes, concentradores y routers en redes locales. A través del estudio de estos dispositivos y sus características, se desarrollará la capacidad de seleccionar el dispositivo adecuado para un entorno específico y optimizar su desempeño.

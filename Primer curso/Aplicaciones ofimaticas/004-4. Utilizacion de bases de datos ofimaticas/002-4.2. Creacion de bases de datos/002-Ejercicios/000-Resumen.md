@@ -1,0 +1,11 @@
+La carpeta `Primer curso/Aplicaciones ofimaticas/004-4. Utilizacion de bases de datos ofimaticas/002-4.2. Creacion de bases de datos/002-Ejercicios` se centra en proporcionar ejercicios prácticos relacionados con la creación de bases de datos utilizando aplicaciones ofimáticas. Este nivel del contenido destaca el paso siguiente después de entender los conceptos básicos y las funciones generales de las bases de datos, enfocándose específicamente en cómo crear estas estructuras de almacenamiento de información.
+
+Los ejercicios aquí proporcionan una práctica directa con herramientas como Microsoft Access o Google Sheets, que son populares para el manejo de bases de datos en entornos ofimáticos. Estos recursos permiten a los estudiantes aplicar teoría a la práctica, creando tablas, campos y relaciones entre ellas.
+
+El enfoque aquí es guiado paso a paso, comenzando con la configuración básica de una base de datos hasta la creación de consultas y informes simples. Los ejercicios incluyen tanto la creación de estructuras de datos como la carga de datos iniciales, lo que proporciona un sentido completo del ciclo de vida de una base de datos.
+
+Además, estos ejercicios promueven el pensamiento crítico y la solución de problemas, ya que los estudiantes deben identificar las necesidades de almacenamiento de información y diseñar soluciones eficientes utilizando las herramientas disponibles. Esto es crucial para desarrollar habilidades prácticas en el manejo de bases de datos, una competencia cada vez más demandada en el mundo laboral.
+
+A lo largo del recorrido conceptual típico en este nivel, los estudiantes aprenderán a optimizar la estructura de las bases de datos para mejorar su eficiencia y rendimiento. Esto implica entender cómo utilizar índices, normalización y otras técnicas avanzadas para mantener la integridad y la consistencia de los datos.
+
+En resumen, esta carpeta proporciona una serie de ejercicios prácticos centrados en la creación de bases de datos utilizando aplicaciones ofimáticas. A través de estos ejercicios, los estudiantes pueden desarrollar habilidades esenciales para el manejo de información estructurada y aprender a aplicar conceptos teóricos en un entorno real.

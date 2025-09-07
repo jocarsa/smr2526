@@ -1,0 +1,9 @@
+La carpeta `Primer curso/Redes locales/002-2. Identificacion de elementos y espacios fisicos de una red local/010-2.10. Herramientas/002-Ejercicios` se centra en proporcionar ejercicios prácticos relacionados con la identificación de elementos y espacios físicos en redes locales. Este nivel del contenido es crucial para desarrollar habilidades prácticas que complementan los conocimientos teóricos sobre la estructura física de las redes.
+
+Los estudiantes aprenderán a utilizar herramientas específicas para detectar y analizar los componentes físicos de una red local, lo que les permitirá entender mejor cómo se organiza y opera el entorno físico en el que se basa su infraestructura tecnológica. Este proceso implica la identificación de dispositivos como switches, routers, servidores y estaciones de trabajo, así como la comprensión de cómo estos elementos interactúan entre sí para proporcionar servicios a los usuarios.
+
+Los ejercicios incluyen la práctica de uso de software y herramientas de red, lo que les permite aplicar conocimientos teóricos en un entorno controlado. Estas actividades pueden implicar el análisis de diagramas de red, la interpretación de datos de monitoreo y la simulación de escenarios de red para identificar problemas potenciales.
+
+Además, los estudiantes aprenderán a documentar sus hallazgos y resultados, lo que es una habilidad valiosa en cualquier campo relacionado con la gestión de redes. Esta práctica les ayudará a desarrollar un enfoque sistemático y organizado en el análisis de infraestructuras físicas de red.
+
+En resumen, esta carpeta proporciona una serie de ejercicios prácticos que complementan los conocimientos teóricos sobre la identificación de elementos y espacios físicos en redes locales. A través de la práctica con herramientas específicas, los estudiantes adquieren habilidades prácticas esenciales para el análisis y gestión de infraestructuras tecnológicas.

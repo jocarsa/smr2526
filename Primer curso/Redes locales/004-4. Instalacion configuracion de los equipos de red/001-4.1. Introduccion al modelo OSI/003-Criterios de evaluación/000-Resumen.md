@@ -1,0 +1,15 @@
+La carpeta `Primer curso/Redes locales/004-4. Instalacion configuracion de los equipos de red/001-4.1. Introduccion al modelo OSI/003-Criterios de evaluación` se centra en el estudio del modelo OSI, que es una estructura teórica utilizada para describir cómo funcionan las redes de computadoras. Este modelo divide la comunicación de red en siete capas distintas, cada una con un propósito específico y responsabilidades.
+
+El objetivo principal de esta carpeta es proporcionar a los estudiantes una comprensión profunda del modelo OSI y cómo se aplican sus conceptos en la instalación y configuración de equipos de red. A través de este estudio, los participantes aprenderán sobre las diferentes capas del modelo OSI, desde la física hasta la aplicación, y cómo interactúan entre ellas para transmitir datos.
+
+El enfoque aquí es práctico y teórico simultáneamente. Los estudiantes no solo aprenderán acerca de los conceptos fundamentales del modelo OSI, sino que también realizarán ejercicios y actividades que les permitirán aplicar lo aprendido en situaciones reales de instalación y configuración de equipos de red.
+
+El recorrido conceptual típico en esta carpeta comienza con una introducción general al modelo OSI, explicando su importancia y cómo se utiliza para entender la comunicación de red. A continuación, se profundizará en cada capa del modelo, examinando sus funciones específicas y cómo interactúan entre ellas.
+
+Los estudiantes también aprenderán sobre las herramientas y técnicas utilizadas para instalar y configurar equipos de red, incluyendo el uso de software de gestión de redes y la interpretación de diagramas de red. Además, se explorará cómo aplicar los conocimientos del modelo OSI en situaciones prácticas, como la solución de problemas de red y la optimización del rendimiento.
+
+En resumen, esta carpeta es una introducción integral al modelo OSI y su aplicación práctica en el mundo de las redes locales. A través de un enfoque teórico y práctico, los estudiantes adquirirán una comprensión sólida de cómo funcionan los equipos de red y cómo se pueden configurar y optimizar para mejorar la eficiencia y la seguridad de la comunicación de datos.
+
+Este estudio es fundamental para cualquier profesional que trabaje en el campo de las redes locales, ya que proporciona una base sólida en la teoría y práctica de la comunicación de red. A través de este conocimiento, los estudiantes podrán abordar desafíos complejos en el mundo de las redes y desarrollar habilidades valiosas para resolver problemas de red eficientemente.
+
+En conclusión, esta carpeta es una introducción integral al modelo OSI y su aplicación práctica en el mundo de las redes locales. A través de un enfoque teórico y práctico, los estudiantes adquirirán una comprensión sólida de cómo funcionan los equipos de red y cómo se pueden configurar y optimizar para mejorar la eficiencia y la seguridad de la comunicación de datos. Este estudio es fundamental para cualquier profesional que trabaje en el campo de las redes locales, ya que proporciona una base sólida en la teoría y práctica de la comunicación de red.

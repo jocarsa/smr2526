@@ -1,0 +1,13 @@
+La carpeta `Primer curso/Montaje y mantenimiento de equipos/005-5. Placas Base/008-5.8. Monitores/003-Criterios de evaluación` se centra en proporcionar una guía exhaustiva sobre los criterios que deben considerarse al evaluar monitores para su uso en sistemas informáticos. Este nivel de la jerarquía del curso profundiza en el aspecto técnico y práctico de la selección adecuada de componentes de hardware, con un enfoque específico en los monitores.
+
+El propósito principal es equipar al lector con una comprensión sólida de cómo evaluar la calidad y la funcionalidad de diferentes modelos de monitores. Al entrar en esta carpeta, el lector se adentra en un recorrido conceptual que comienza por entender los fundamentos básicos de los monitores, avanzando hacia una evaluación criteriosa de su rendimiento, durabilidad y compatibilidad con otros componentes del sistema.
+
+El enfoque aquí es práctico y orientado a la solución real. Se presentan diversos criterios que deben tenerse en cuenta al momento de seleccionar un monitor, como el tamaño de la pantalla, la resolución, la tasa de refresco, los tipos de conectores disponibles, la calidad del panel LCD o OLED, entre otros. Además, se discute cómo estos criterios interactúan entre sí y cómo afectan a la experiencia final del usuario.
+
+El recorrido conceptual típico en este nivel implica una exploración detallada de cada uno de estos criterios, proporcionando ejemplos prácticos y explicaciones claras. Se muestra cómo los fabricantes utilizan estas características para diferenciarse entre sus productos y cómo el lector puede utilizar esta información para tomar decisiones informadas.
+
+Además, se aborda la importancia de considerar no solo las especificaciones técnicas, sino también factores como el precio, la disponibilidad del producto y su compatibilidad con otros sistemas. El objetivo es que el lector pueda evaluar un monitor no solo en términos de sus capacidades técnicas, sino también en términos de valor económico y utilidad práctica.
+
+El contenido de esta carpeta se complementa con ejercicios prácticos y actividades que permiten al lector aplicar los conocimientos adquiridos. Estas actividades pueden incluir la evaluación de monitores reales, el análisis de especificaciones técnicas y la toma de decisiones informadas sobre qué modelo es más adecuado para un determinado uso.
+
+En resumen, esta carpeta proporciona una guía completa y práctica sobre cómo evaluar los monitores en términos de criterios específicos. Desde las características técnicas básicas hasta factores económicos y prácticos, el lector obtiene una comprensión profunda y aplicable del proceso de selección de un monitor adecuado para su sistema informático.

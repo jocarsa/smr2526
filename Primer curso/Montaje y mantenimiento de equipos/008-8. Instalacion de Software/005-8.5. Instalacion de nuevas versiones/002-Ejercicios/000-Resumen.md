@@ -1,0 +1,11 @@
+La carpeta `Primer curso/Montaje y mantenimiento de equipos/008-8. Instalacion de Software/005-8.5. Instalacion de nuevas versiones/002-Ejercicios` se centra en proporcionar ejercicios prácticos relacionados con la instalación de nuevas versiones de software. Este nivel específico del contenido es crucial para los estudiantes que desean adquirir habilidades prácticas en el manejo y actualización de sistemas informáticos.
+
+El propósito principal de esta carpeta es ofrecer una serie de ejercicios diseñados para ayudar a los estudiantes a aplicar conocimientos teóricos sobre la instalación de software. Estos ejercicios abordan diversos aspectos, desde la identificación de las necesidades del sistema hasta la planificación y ejecución de la instalación.
+
+El enfoque aquí es práctico y orientado al aprendizaje activo. Los estudiantes tendrán la oportunidad de trabajar con diferentes tipos de software y plataformas, lo que les permitirá desarrollar una comprensión profunda del proceso de instalación y actualización. Además, estos ejercicios incluirán situaciones reales que los estudiantes pueden encontrar en su trabajo o en sus proyectos personales.
+
+El recorrido conceptual típico en este nivel comienza con la identificación de las necesidades del sistema, seguido por la planificación detallada de la instalación. A continuación, se abordan los pasos específicos para instalar la nueva versión del software, incluyendo la descarga, la verificación y la ejecución del proceso de instalación. Los estudiantes también aprenderán a manejar posibles errores o problemas que puedan surgir durante el proceso.
+
+Además, esta carpeta incluirá ejercicios que enfatizarán la importancia de la documentación y la gestión de cambios. Los estudiantes serán guiados en cómo registrar los pasos realizados, identificar cualquier problema encontrado y planificar las acciones necesarias para solucionarlos. Esto les preparará para manejar situaciones complejas en el futuro.
+
+En resumen, esta carpeta es un recurso valioso para aquellos que desean mejorar sus habilidades prácticas en la instalación de software. A través de una serie de ejercicios bien diseñados y orientados al aprendizaje activo, los estudiantes podrán adquirir experiencia práctica y desarrollar una comprensión profunda del proceso de instalación y actualización de software.

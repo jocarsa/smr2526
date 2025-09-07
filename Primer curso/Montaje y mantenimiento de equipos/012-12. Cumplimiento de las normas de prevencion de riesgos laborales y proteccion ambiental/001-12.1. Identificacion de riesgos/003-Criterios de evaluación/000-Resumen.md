@@ -1,0 +1,11 @@
+La carpeta `Primer curso/Montaje y mantenimiento de equipos/012-12. Cumplimiento de las normas de prevención de riesgos laborales y protección ambiental/001-12.1. Identificación de riesgos/003-Criterios de evaluación` se centra en el proceso crucial de identificar riesgos laborales y ambientales durante el montaje y mantenimiento de equipos. Este nivel específico del contenido proporciona los criterios y métodos para evaluar y determinar qué tipos de riesgos pueden surgir en diferentes situaciones.
+
+El propósito principal es guiar a los profesionales en la identificación precisa de riesgos, lo que es fundamental para implementar medidas preventivas adecuadas. El enfoque aquí se centra en el análisis sistemático de las actividades y entornos laborales y ambientales, identificando tanto riesgos físicos como químicos, biológicos y psicológicos.
+
+El recorrido conceptual típico comienza con una introducción a la importancia del cumplimiento de normas de prevención de riesgos laborales y protección ambiental. A continuación, se presentan los métodos y técnicas utilizados para identificar estos riesgos, que pueden variar según el tipo de equipo o actividad.
+
+El contenido aborda cómo realizar una evaluación exhaustiva de las condiciones de trabajo y de la instalación, considerando factores como la configuración física, el uso de equipos y herramientas, y las prácticas laborales. Se discuten técnicas específicas para identificar riesgos potenciales, como inspecciones físicas, análisis de incidentes pasados o consultas a expertos en seguridad.
+
+Además, se proporcionan criterios detallados para clasificar y priorizar los riesgos identificados, lo que facilita la planificación de acciones correctivas. El contenido también incluye ejemplos prácticos de cómo aplicar estos criterios en situaciones reales, asegurando que los profesionales puedan entender cómo implementar las medidas necesarias.
+
+El objetivo final es equipar a los profesionales con una comprensión profunda y práctica de la identificación de riesgos laborales y ambientales, lo que les permitirá desarrollar estrategias efectivas para su prevención y mitigación. Este nivel del contenido es crucial para garantizar un trabajo seguro y sostenible en el montaje y mantenimiento de equipos, protegiendo tanto a los trabajadores como al medio ambiente.

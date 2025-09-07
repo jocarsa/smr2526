@@ -1,0 +1,15 @@
+La carpeta `Primer curso/Redes locales/005-5. Resolucion de incidencias de una red de area local/006-5.6. Documentacion de incidencias/002-Ejercicios` se centra en la documentación de incidencias relacionadas con el diagnóstico y resolución de problemas en redes locales. Este nivel del contenido proporciona ejercicios prácticos que permiten a los estudiantes aplicar conocimientos teóricos sobre cómo registrar, clasificar y reportar eficazmente las incidencias encontradas en una red local.
+
+El propósito principal es fortalecer la habilidad de documentación técnica, un aspecto crucial para el mantenimiento y mejora continua de cualquier sistema informático. A través de estos ejercicios, los estudiantes aprenderán a estructurar información relevante sobre problemas de red, identificar factores clave que contribuyen a dichos problemas y presentar soluciones propuestas de manera clara y organizada.
+
+El enfoque aquí es práctico y orientado al aprendizaje activo. Los ejercicios implican la simulación de situaciones reales donde se deben documentar incidencias, lo que permite una comprensión profunda del proceso desde la identificación inicial hasta el registro final. Esto incluye la recopilación de detalles técnicos, la clasificación de problemas según su gravedad y la formulación de recomendaciones para su resolución.
+
+El recorrido conceptual típico en este nivel comienza con una introducción a los conceptos básicos de documentación técnica en redes locales. A continuación, se presentan ejercicios que guían al estudiante a través del proceso de identificación y registro de incidencias. Estos ejercicios pueden incluir la creación de informes detallados sobre problemas comunes de red, como fallos de conexión, lentitud en el acceso a recursos compartidos o errores de configuración.
+
+A medida que avanzan en los ejercicios, se profundiza en técnicas específicas para la documentación. Esto puede implicar el uso de formatos estándar para informes de incidencias, la clasificación de problemas según su impacto y urgencia, y la formulación de recomendaciones prácticas para solucionar cada caso.
+
+Los ejercicios también pueden incluir la simulación de escenarios donde se deben documentar incidentes más complejos, como fallos en el funcionamiento de servicios críticos o problemas relacionados con la seguridad de la red. En estos casos, los estudiantes aprenderán a identificar amenazas potenciales y sugerir medidas preventivas y correctivas.
+
+Además, los ejercicios pueden enfocarse en la documentación de soluciones implementadas para resolver problemas recién identificados. Esto permite a los estudiantes comprender cómo se lleva a cabo el seguimiento del progreso y la validación de las soluciones propuestas.
+
+El objetivo final es que los estudiantes desarrollen una capacidad sólida para documentar eficazmente incidencias en redes locales, lo que les permitirá trabajar de manera independiente o colaborativa en proyectos futuros relacionados con el mantenimiento y mejora continua de sistemas informáticos.

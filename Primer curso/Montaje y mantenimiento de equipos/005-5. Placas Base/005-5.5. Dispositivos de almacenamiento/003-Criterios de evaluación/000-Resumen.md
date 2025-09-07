@@ -1,0 +1,11 @@
+La carpeta `Primer curso/Montaje y mantenimiento de equipos/005-5. Placas Base/005-5.5. Dispositivos de almacenamiento/003-Criterios de evaluación` se centra en el análisis detallado de los criterios utilizados para evaluar la eficacia y funcionalidad de los dispositivos de almacenamiento en una placa base. Este nivel del contenido proporciona un enfoque profundo en cómo se seleccionan, instalan y optimizan estos componentes críticos para el funcionamiento óptimo del sistema.
+
+El propósito principal es guiar al lector a través de los estándares y protocolos que deben cumplirse para asegurar la integridad y rendimiento de los dispositivos de almacenamiento. Este proceso incluye la evaluación de factores como la capacidad, velocidad, confiabilidad y seguridad de los discos duros, SSDs y otros medios de almacenamiento.
+
+El enfoque aquí es práctico y teórico, combinando conocimientos técnicos con consideraciones operativas para garantizar que los dispositivos de almacenamiento estén configurados adecuadamente. El recorrido conceptual típico comienza con una introducción a los tipos principales de dispositivos de almacenamiento disponibles en las placas base modernas y luego se profundiza en los criterios específicos utilizados para evaluar su desempeño.
+
+A lo largo del camino, se exploran aspectos como la capacidad de almacenamiento, la velocidad de lectura y escritura, la resistencia al shock y la confiabilidad a largo plazo. También se abordan las consideraciones de seguridad, incluyendo la protección contra fallos y ataques cibernéticos que podrían comprometer los datos almacenados.
+
+El contenido también incluye ejemplos prácticos de cómo aplicar estos criterios en situaciones reales, proporcionando una visión clara de cómo se implementan en el campo. Finalmente, se concluye con un resumen de las mejores prácticas y recomendaciones para la selección y configuración de dispositivos de almacenamiento en placas base, asegurando que los sistemas sean eficientes, seguros y confiables.
+
+Este nivel de contenido es fundamental para profesionales del campo que desean profundizar su conocimiento sobre el montaje y mantenimiento de equipos informáticos, ofreciendo una perspectiva crítica y práctica sobre la importancia de los dispositivos de almacenamiento en el funcionamiento general del sistema.

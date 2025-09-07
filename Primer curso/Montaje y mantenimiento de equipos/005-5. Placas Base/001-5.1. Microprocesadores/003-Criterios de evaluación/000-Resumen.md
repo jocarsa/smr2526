@@ -1,0 +1,13 @@
+La carpeta `Primer curso/Montaje y mantenimiento de equipos/005-5. Placas Base/001-5.1. Microprocesadores/003-Criterios de evaluación` se centra en proporcionar un análisis detallado de los criterios utilizados para evaluar microprocesadores, que son componentes esenciales en la construcción y funcionamiento de las placas base de computadoras. Este nivel del contenido ofrece una perspectiva profunda sobre cómo se seleccionan y califican estos procesadores, considerando factores técnicos avanzados.
+
+El propósito principal de esta carpeta es guiar al lector a través de los criterios que influyen en la elección de microprocesadores para placas base. Comienza explicando el concepto básico de un microprocesador y sus características principales, como velocidad de reloj, núcleos y arquitectura. A continuación, se profundiza en los diferentes tipos de microprocesadores disponibles en el mercado, destacando las diferencias entre procesadores de 32 bits y 64 bits, así como las ventajas y desventajas de cada uno.
+
+El recorrido conceptual típico en esta carpeta incluye una exploración exhaustiva de los criterios técnicos que se utilizan para evaluar microprocesadores. Se discute la importancia del rendimiento, el consumo energético y la compatibilidad con diferentes sistemas operativos. Además, se examina cómo estos criterios afectan la elección del microprocesador en función de las necesidades específicas de un sistema.
+
+Además, esta carpeta aborda los aspectos prácticos de la evaluación de microprocesadores. Se proporcionan instrucciones sobre cómo realizar pruebas de rendimiento y cómo interpretar los resultados obtenidos. También se discute el papel del software en la optimización del rendimiento del microprocesador, incluyendo la instalación de controladores y actualizaciones del sistema operativo.
+
+El contenido también aborda las implicaciones éticas y legales de la elección de microprocesadores, destacando los aspectos de la seguridad y el cumplimiento con regulaciones. Se exploran las opciones disponibles en mercados emergentes y cómo estas afectan a la diversidad tecnológica.
+
+Finalmente, esta carpeta concluye proporcionando un resumen de los criterios clave para evaluar microprocesadores y su importancia en el montaje y mantenimiento de placas base. Se ofrece una reflexión sobre cómo estos criterios influyen en la elección del hardware adecuado para diferentes aplicaciones y cómo se pueden utilizar para mejorar la eficiencia y rendimiento de los sistemas informáticos.
+
+En resumen, esta carpeta proporciona un análisis detallado y profundo de los criterios utilizados para evaluar microprocesadores, ofreciendo una guía completa para su elección y uso en el montaje y mantenimiento de placas base.

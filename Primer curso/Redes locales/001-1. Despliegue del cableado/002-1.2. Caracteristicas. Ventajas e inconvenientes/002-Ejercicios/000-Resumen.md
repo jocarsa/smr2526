@@ -1,0 +1,13 @@
+En esta carpeta se aborda el despliegue del cableado en redes locales, un tema fundamental para la configuración eficiente de infraestructuras tecnológicas. El enfoque inicial es centrarse en las características principales del cableado, destacando tanto sus ventajas como los inconvenientes que pueden surgir.
+
+El primer paso es entender las diferentes clases de cables utilizados en redes locales, desde el Ethernet hasta el coaxial y la fibra óptica. Cada tipo tiene sus propias especificaciones técnicas y aplicaciones ideales, lo que requiere una evaluación cuidadosa para seleccionar el más adecuado según los requisitos del proyecto.
+
+Una vez establecidas las características del cableado, se examinan las ventajas que ofrecen a la infraestructura de red. Entre ellas destacan la velocidad de transmisión alta, la capacidad de soportar múltiples canales y la facilidad de instalación y mantenimiento. Además, el cableado estructurado permite una organización clara y ordenada de los cables, facilitando su gestión y actualización.
+
+Sin embargo, es importante también considerar los inconvenientes que pueden surgir con el despliegue del cableado. Uno de ellos es la necesidad de un diseño cuidadoso para evitar interferencias electromagnéticas, lo que puede requerir una inversión adicional en materiales y herramientas especializadas. Además, el cableado extenso puede resultar en dificultades para su mantenimiento y actualización, especialmente si no se ha planeado adecuadamente.
+
+Además de las características técnicas y los aspectos económicos, también se aborda la importancia del diseño del cableado en términos de seguridad. El uso incorrecto o insuficiente de cables puede llevar a problemas graves como cortocircuitos o descargas eléctricas, lo que es crucial para evitar riesgos potenciales.
+
+El curso continúa explorando las mejores prácticas en el despliegue del cableado, incluyendo la instalación correcta de los terminales y conectores, así como la utilización de herramientas especializadas para asegurar una conexión estable. También se discute la importancia de la documentación detallada durante el proceso de cableado, lo que facilitará futuras modificaciones o reparaciones.
+
+En resumen, esta carpeta proporciona un enfoque completo y práctico al despliegue del cableado en redes locales. Desde las características técnicas hasta los aspectos económicos y de seguridad, se abordan todos los elementos clave para una instalación exitosa y eficiente. A través de ejercicios y actividades prácticas, los estudiantes adquieren habilidades valiosas que les permitirán manejar con confianza el despliegue del cableado en cualquier proyecto de red local.

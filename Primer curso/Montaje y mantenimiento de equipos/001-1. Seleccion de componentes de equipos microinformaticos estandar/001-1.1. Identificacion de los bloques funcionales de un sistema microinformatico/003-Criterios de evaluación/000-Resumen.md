@@ -1,0 +1,15 @@
+La carpeta `Primer curso/Montaje y mantenimiento de equipos/001-1. Seleccion de componentes de equipos microinformaticos estandar/001-1.1. Identificacion de los bloques funcionales de un sistema microinformatico/003-Criterios de evaluación` se centra en proporcionar una guía detallada sobre la identificación y selección de componentes esenciales para el montaje y mantenimiento de equipos microinformáticos estándar. Este nivel del contenido ofrece una introducción a los bloques funcionales básicos que componen un sistema microinformático, lo que es fundamental para entender su estructura y funcionamiento.
+
+El propósito principal de esta carpeta es equipar al lector con la conocimiento necesario para seleccionar adecuadamente componentes como el procesador, memoria RAM, disco duro, tarjeta gráfica, placa madre, fuente de alimentación y otros elementos críticos. Al identificar los bloques funcionales, se establece una base sólida para el montaje correcto y el mantenimiento eficiente de estos equipos.
+
+El enfoque del contenido es práctico y orientado a la aplicación real. Se presentan criterios específicos y métodos que permiten evaluar la compatibilidad y rendimiento de los componentes seleccionados, asegurando que se construyan sistemas microinformáticos eficientes y seguros.
+
+El recorrido conceptual típico en este nivel comienza con una introducción a los bloques funcionales principales de un sistema microinformático. A continuación, se detalla la importancia de cada componente y cómo contribuye al rendimiento general del equipo. El contenido luego pasa a explicar cómo identificar y seleccionar componentes basándose en factores como la capacidad, velocidad, costo y compatibilidad.
+
+Además, se aborda el proceso de evaluación de los componentes seleccionados, incluyendo técnicas para medir su rendimiento y verificar su funcionamiento. Este aspecto es crucial para garantizar que los equipos microinformáticos cumplan con las necesidades específicas del usuario, ya sean para uso doméstico, profesional o empresarial.
+
+El contenido también se centra en la importancia de la compatibilidad entre componentes, explicando cómo seleccionar piezas que funcionen juntas sin problemas y maximicen el rendimiento total del sistema. Se proporcionan ejemplos prácticos de cómo realizar estas selecciones y cómo verificar la compatibilidad.
+
+Además, se aborda el mantenimiento de los equipos microinformáticos estándar, incluyendo técnicas para identificar y solucionar problemas comunes que pueden surgir durante su uso. El contenido proporciona orientación sobre cómo realizar tareas básicas de mantenimiento, como la limpieza del equipo, la actualización del software y la gestión de los componentes.
+
+En conclusión, esta carpeta ofrece una introducción integral a la identificación y selección de componentes esenciales para el montaje y mantenimiento de equipos microinformáticos estándar. A través de un enfoque práctico y orientado a la aplicación real, proporciona al lector las herramientas necesarias para seleccionar adecuadamente los componentes y construir sistemas microinformáticos eficientes y seguros.

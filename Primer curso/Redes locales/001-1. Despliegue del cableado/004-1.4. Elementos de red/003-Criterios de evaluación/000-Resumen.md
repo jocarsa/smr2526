@@ -1,0 +1,13 @@
+La carpeta `Primer curso/Redes locales/001-1. Despliegue del cableado/004-1.4. Elementos de red/003-Criterios de evaluación` se centra en la evaluación y las consideraciones cruciales para el despliegue exitoso de un sistema de cableado en redes locales. Este nivel de la jerarquía del contenido proporciona una perspectiva detallada sobre los elementos constitutivos de una red, enfocándose específicamente en cómo estas partes interactúan y funcionan juntas.
+
+El propósito principal es guiar al lector a través de un proceso sistemático para evaluar el despliegue de cableado en redes locales. Este proceso incluye la identificación y análisis de los elementos clave que componen una red, como switches, routers, cables Ethernet, terminales y dispositivos de red. La evaluación se realiza con criterios específicos que aseguran la eficiencia, la seguridad y el rendimiento del sistema.
+
+El enfoque aquí es práctico y orientado a la implementación real. Se presentan no solo las teorías básicas sobre los elementos de una red, sino también las mejores prácticas y las consideraciones técnicas que deben tenerse en cuenta durante el despliegue. Esto incluye la elección adecuada de cables y terminales, la configuración correcta de dispositivos de red y la implementación de medidas de seguridad para proteger los datos.
+
+El recorrido conceptual típico comienza con una introducción a los elementos básicos de una red, como switches y routers. A continuación, se profundiza en el cableado Ethernet, incluyendo tipos de cables, conectores y métodos de instalación. Posteriormente, se aborda la configuración de dispositivos de red, destacando la importancia de las direcciones IP y los protocolos de comunicación.
+
+El proceso culmina con una evaluación exhaustiva del despliegue, utilizando criterios específicos para asegurar que todos los elementos estén correctamente instalados y funcionando. Esto implica la verificación de la conectividad entre dispositivos, el rendimiento del sistema y la seguridad contra amenazas potenciales.
+
+En cada paso del recorrido, se proporcionan ejemplos prácticos y guías paso a paso para facilitar la comprensión y aplicación de los conceptos. Además, se incluyen preguntas de evaluación y actividades prácticas que permiten al lector aplicar lo aprendido en situaciones reales.
+
+El objetivo final es equipar al lector con las herramientas necesarias para evaluar y optimizar el despliegue de cableado en redes locales, asegurando un sistema eficiente, seguro y de alta calidad. Este nivel de contenido proporciona una base sólida para entender y aplicar los principios fundamentales del cableado en redes locales, preparando al lector para enfrentar desafíos más complejos en el futuro.

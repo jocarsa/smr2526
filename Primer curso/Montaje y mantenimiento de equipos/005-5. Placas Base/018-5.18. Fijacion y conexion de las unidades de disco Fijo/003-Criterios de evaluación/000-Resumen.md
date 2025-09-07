@@ -1,0 +1,11 @@
+La carpeta `Primer curso/Montaje y mantenimiento de equipos/005-5. Placas Base/018-5.18. Fijacion y conexion de las unidades de disco Fijo/003-Criterios de evaluación` se centra en proporcionar los criterios de evaluación necesarios para asegurar una instalación correcta y segura de las unidades de disco fijo en una placa base. Este nivel de la jerarquía del curso aborda un aspecto crucial del montaje y mantenimiento de equipos informáticos, enfocándose específicamente en la configuración física y operativa de los discos duros.
+
+El propósito principal es guiar al estudiante o técnico a través de los estándares y pruebas que deben cumplirse para garantizar que las unidades de disco fijo se instalen correctamente y funcionen eficientemente. Esto incluye verificar la correcta fijación del disco duro en el soporte de la placa base, así como asegurarse de que las conexiones eléctricas sean seguras y efectivas.
+
+El enfoque aquí es práctico y orientado a la solución real de problemas comunes relacionados con la instalación de discos duros. El recorrido conceptual típico en este nivel implica una transición desde el entendimiento básico del montaje físico hasta la implementación de pruebas de funcionamiento y evaluación de rendimiento.
+
+A lo largo de los 10 párrafos, se presentan diversos criterios de evaluación que son esenciales para garantizar la integridad y eficiencia de las unidades de disco fijo. Estos criterios abordan aspectos como la estabilidad del montaje, la resistencia a los impactos físicos, la confiabilidad de las conexiones eléctricas y el cumplimiento de estándares de seguridad.
+
+Además, se discuten técnicas específicas para realizar estas evaluaciones, incluyendo pruebas de carga, simulación de impactos y verificación de la conectividad. El enfoque práctico permite a los estudiantes o profesionales aplicar estos criterios en situaciones reales, lo que les proporciona una comprensión profunda y práctica del proceso.
+
+En resumen, esta carpeta sirve como un recurso valioso para aquellos interesados en el montaje y mantenimiento de equipos informáticos. Proporciona una guía completa sobre cómo evaluar la instalación de unidades de disco fijo, asegurando que se cumplan los estándares necesarios para una operación segura y eficiente del sistema.

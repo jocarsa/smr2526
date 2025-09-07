@@ -1,0 +1,13 @@
+La carpeta `Primer curso/Montaje y mantenimiento de equipos/005-5. Placas Base/004-5.4. Perifericos/002-Ejercicios` se centra en proporcionar ejercicios prácticos relacionados con los periféricos de las placas base en el montaje y mantenimiento de equipos informáticos. Este nivel del contenido es específico para aquellos que desean aplicar conocimientos teóricos sobre la integración de hardware en sistemas computacionales.
+
+Los ejercicios aquí presentados abordan diversos aspectos prácticos, desde la identificación y selección de periféricos hasta su instalación y configuración. Algunas actividades pueden incluir la conexión de dispositivos como teclados, ratones, monitores y unidades de almacenamiento externo a una placa base, así como la realización de pruebas para asegurar que estos funcionen correctamente.
+
+El enfoque en este nivel es práctico y orientado al aprendizaje activo. Los estudiantes tendrán la oportunidad de aplicar los conocimientos adquiridos sobre las especificaciones técnicas de los periféricos, los métodos de instalación seguros y eficientes, y las pruebas de funcionamiento para garantizar que el sistema esté correctamente configurado.
+
+El recorrido conceptual típico en este nivel comienza con una introducción a los tipos de periféricos más comunes y sus funciones. A continuación, se profundiza en la selección adecuada de estos periféricos según las necesidades del usuario y el rendimiento del sistema. Luego, se aborda la instalación de los periféricos, incluyendo técnicas de montaje seguras y procedimientos recomendados para evitar daños al equipo.
+
+A medida que avanzamos en este nivel, los estudiantes aprenderán a realizar pruebas funcionales para verificar que los periféricos están operando correctamente. Esto puede implicar la realización de comprobaciones visuales, el uso de herramientas de diagnóstico y la ejecución de pruebas específicas para cada tipo de dispositivo.
+
+El contenido también incluirá ejercicios sobre la configuración de los periféricos en sistemas operativos, lo que permitirá a los estudiantes aplicar sus conocimientos sobre interfaces gráficas de usuario, comandos de línea y configuraciones avanzadas. Además, se explorará cómo gestionar los periféricos de manera eficiente para optimizar el rendimiento del sistema.
+
+En resumen, esta carpeta proporciona una serie de ejercicios prácticos centrados en la integración y gestión de periféricos en las placas base de equipos informáticos. A través de actividades que van desde la selección y instalación hasta la configuración y pruebas funcionales, los estudiantes adquirirán habilidades prácticas esenciales para el montaje y mantenimiento de sistemas computacionales.

@@ -1,0 +1,11 @@
+La carpeta `Primer curso/Montaje y mantenimiento de equipos/005-5. Placas Base/016-5.16. Refrigerado del procesador/002-Ejercicios` se centra en proporcionar ejercicios prácticos relacionados con el refrigerado del procesador en placas base. Este apartado es una continuación natural del estudio de los componentes internos de las placas base, específicamente enfocándose en la importancia y métodos de refrigeración para mantener el rendimiento óptimo del procesador.
+
+Los ejercicios aquí presentados buscan fortalecer la comprensión teórica con aplicaciones prácticas. Comienzan con una introducción a los tipos de refrigeración más comunes, como el refrigerado natural y el refrigerado forzado, explicando cómo cada uno funciona y sus ventajas y desventajas.
+
+A medida que avanzamos en la carpeta, los ejercicios se vuelven más específicos. Se exploran técnicas para mejorar la eficiencia del refrigerado, como la instalación de ventiladores adecuados o el uso de líquidos refrigerantes alternativos. También se abordan problemas comunes relacionados con el refrigerado del procesador y cómo resolverlos.
+
+Es importante destacar que estos ejercicios no solo son útiles para estudiantes en proceso de formación técnica, sino también para profesionales experimentados que desean mantenerse actualizados sobre las mejores prácticas en la configuración y mantenimiento de sistemas informáticos. Al realizar estos ejercicios, los participantes adquieren habilidades cruciales para optimizar el rendimiento del hardware y prolongar su vida útil.
+
+La estructura de la carpeta permite un recorrido lógico desde conceptos básicos hasta aplicaciones avanzadas, facilitando una comprensión profunda y coherente del tema. Cada ejercicio está diseñado para ser autónomo pero también contribuye al desarrollo global del conocimiento sobre el refrigerado del procesador en placas base.
+
+En resumen, esta carpeta es un recurso valioso para aquellos que desean profundizar su comprensión de la configuración y mantenimiento de sistemas informáticos, enfocándose específicamente en la importancia del refrigerado del procesador. A través de una serie de ejercicios prácticos, los participantes pueden aplicar conocimientos teóricos y adquirir habilidades cruciales para optimizar el rendimiento y la durabilidad de sus sistemas informáticos.

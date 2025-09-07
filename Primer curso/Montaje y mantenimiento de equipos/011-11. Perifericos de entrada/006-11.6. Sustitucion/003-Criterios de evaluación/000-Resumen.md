@@ -1,0 +1,15 @@
+La carpeta `Primer curso/Montaje y mantenimiento de equipos/011-11. Perifericos de entrada/006-11.6. Sustitucion/003-Criterios de evaluación` se centra en el proceso de sustitución de periféricos de entrada en sistemas electrónicos, proporcionando criterios y métodos para evaluar la eficacia y la adecuación de esta acción. Este nivel del contenido busca profundizar en los aspectos técnicos y prácticos necesarios para realizar sustituciones exitosas de componentes como teclados, ratones o dispositivos de entrada gráfica.
+
+El propósito principal es guiar al lector a través de un recorrido conceptual que comienza con la identificación del problema, pasa por el análisis de las opciones disponibles y culmina en la implementación de una solución efectiva. El enfoque aquí es práctico y orientado a la acción, enfatizando la importancia de considerar factores como la compatibilidad, la eficiencia energética y la seguridad del dispositivo.
+
+El recorrido conceptual típico comienza con un análisis detallado del periférico que necesita ser sustituido. Esto implica entender su funcionamiento, sus especificaciones técnicas y cualquier problema asociado. A continuación, se exploran las opciones disponibles en el mercado, considerando factores como la marca, el precio y las reseñas de usuarios. El siguiente paso es seleccionar el dispositivo más adecuado basándose en estos criterios.
+
+Una vez elegido el nuevo periférico, se procede a su instalación, siguiendo los pasos específicos para cada tipo de dispositivo. Este proceso puede incluir la desconexión del periférico viejo, la conexión del nuevo y la configuración inicial. Durante todo este proceso, es crucial mantener un registro detallado de todas las acciones realizadas y cualquier problema que pueda surgir.
+
+Después de la instalación, se realiza una evaluación post-instalación para asegurarse de que el nuevo periférico funciona correctamente y sin problemas. Esto puede implicar realizar pruebas funcionales, comprobar la velocidad y precisión del dispositivo, y verificar su integridad física. El objetivo es garantizar que el sustituto cumpla con las expectativas establecidas y funcione de manera eficiente.
+
+En caso de que se detecten problemas después de la instalación, se procede a solucionarlos siguiendo los mismos pasos del recorrido conceptual. Esto puede implicar desinstalar el periférico nuevo, realizar ajustes o incluso buscar alternativas más adecuadas.
+
+El contenido de esta carpeta es práctico y orientado a la acción, proporcionando un enfoque sistemático para el proceso de sustitución de periféricos de entrada. El objetivo es que los lectores puedan aplicar estos conocimientos en su trabajo diario, lo que les permita mantener sus sistemas electrónicos funcionando correctamente y eficientemente.
+
+En resumen, esta carpeta ofrece una guía completa para el proceso de sustitución de periféricos de entrada, desde la identificación del problema hasta la evaluación post-instalación. El enfoque práctico y orientado a la acción proporciona un recorrido conceptual claro y coherente que permite a los lectores aplicar estos conocimientos en su trabajo diario.

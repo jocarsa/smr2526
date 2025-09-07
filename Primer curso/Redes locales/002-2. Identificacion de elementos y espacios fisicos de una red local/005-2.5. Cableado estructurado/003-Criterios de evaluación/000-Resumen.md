@@ -1,0 +1,11 @@
+La carpeta `Primer curso/Redes locales/002-2. Identificacion de elementos y espacios fisicos de una red local/005-2.5. Cableado estructurado/003-Criterios de evaluación` se centra en el proceso de identificación y evaluación del cableado estructurado, un componente crucial para la configuración eficiente y segura de redes locales. El objetivo principal es proporcionar los criterios necesarios para evaluar la calidad y la conformidad del cableado estructurado con las mejores prácticas y estándares.
+
+El recorrido conceptual comienza con una comprensión general del cableado estructurado, su importancia en el funcionamiento de las redes locales y los diferentes tipos de cables que pueden utilizarse. A continuación, se profundiza en la identificación de los elementos clave del cableado estructurado, como los jacks, los terminales, los cables de Ethernet y otros componentes interconectados.
+
+El enfoque en este nivel es detallar los criterios específicos para evaluar el estado del cableado estructurado. Esto incluye la inspección visual de los cables y conectores, la medición de la impedancia y la verificación de la conformidad con los estándares de cableado como EIA/TIA-568. Además, se aborda cómo identificar problemas potenciales que podrían afectar el rendimiento de la red.
+
+La evaluación del cableado estructurado es un proceso iterativo que requiere una comprensión profunda de los componentes involucrados y las normas aplicables. Se enfatiza la importancia de realizar pruebas rigurosas y documentar todos los hallazgos para garantizar la confiabilidad y el rendimiento óptimo del sistema.
+
+Además, se discute cómo utilizar los resultados de la evaluación para tomar decisiones informadas sobre la mejora o reemplazo del cableado estructurado. Esto puede implicar la implementación de cambios en la topología de la red, la adquisición de nuevos cables y componentes, o incluso la contratación de profesionales para realizar trabajos de reparo o mantenimiento.
+
+En resumen, esta carpeta proporciona una guía completa sobre cómo identificar y evaluar el cableado estructurado en redes locales. A través de un enfoque práctico y basado en criterios específicos, se ofrece a los profesionales la herramienta necesaria para asegurar que su sistema de red esté optimizado y funcione con eficiencia y seguridad.

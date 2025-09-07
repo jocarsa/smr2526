@@ -1,0 +1,15 @@
+La carpeta `Primer curso/Montaje y mantenimiento de equipos/012-12. Cumplimiento de las normas de prevencion de riesgos laborales y proteccion ambiental/006-12.6. Cumplimiento de la normativa de proteccion ambiental/002-Ejercicios` se centra en proporcionar una serie de ejercicios prácticos relacionados con el cumplimiento de las normativas de protección ambiental en el contexto del montaje y mantenimiento de equipos. Este nivel de la jerarquía es específico para aquellos que desean aplicar conocimientos teóricos sobre prevención de riesgos laborales y protección ambiental a situaciones prácticas.
+
+El propósito principal de esta carpeta es ayudar al lector a entender cómo implementar las normativas de protección ambiental en la práctica, mediante ejercicios que simulan situaciones reales. El enfoque aquí es práctico y aplicable, enfatizando el paso del conocimiento teórico a la aplicación en contextos concretos.
+
+El recorrido conceptual típico comienza con una introducción a las normativas de protección ambiental relevantes para el montaje y mantenimiento de equipos. A continuación, se presentan ejercicios que requieren al lector aplicar estos conocimientos en situaciones prácticas, como la identificación de riesgos ambientales potenciales y la implementación de medidas preventivas.
+
+Los ejercicios incluyen escenarios donde el lector debe analizar sistemas o equipos existentes y proponer mejoras para reducir su impacto ambiental. También se presentan situaciones que requieren al lector evaluar la eficacia de las medidas de protección ambiental implementadas en un entorno laboral.
+
+Además, los ejercicios pueden incluir el análisis de informes técnicos y documentos normativos, lo que ayuda a desarrollar habilidades analíticas y críticas. También se promueve la capacidad de comunicación técnica, ya que los leedores deben presentar sus soluciones de manera clara y concisa.
+
+El recorrido conceptual continúa con el análisis de las consecuencias legales y financieras de no cumplir con las normativas de protección ambiental. Los ejercicios pueden incluir la simulación de situaciones en las que un equipo o sistema no cumple con las normativas, lo que permite al lector entender los riesgos potenciales.
+
+Finalmente, el recorrido conceptual culmina con la reflexión sobre cómo integrar las normativas de protección ambiental en procesos de diseño y mantenimiento continuo. Los ejercicios pueden incluir la simulación de proyectos futuros donde se deben incorporar medidas de protección ambiental desde el principio, lo que ayuda a desarrollar habilidades proactivas y anticipadas.
+
+En resumen, esta carpeta ofrece una serie de ejercicios prácticos centrados en el cumplimiento de las normativas de protección ambiental en el montaje y mantenimiento de equipos. El enfoque es práctico y aplicable, enfatizando la transposición del conocimiento teórico a situaciones reales. A través de este recorrido conceptual, los leedores pueden desarrollar habilidades cruciales para aplicar las normativas de protección ambiental de manera efectiva en su trabajo diario.

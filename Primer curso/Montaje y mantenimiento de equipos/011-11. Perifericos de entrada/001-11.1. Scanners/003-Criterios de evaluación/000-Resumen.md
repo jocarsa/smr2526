@@ -1,0 +1,13 @@
+La carpeta `Primer curso/Montaje y mantenimiento de equipos/011-11. Perifericos de entrada/001-11.1. Scanners/003-Criterios de evaluación` se centra en proporcionar una guía exhaustiva sobre los criterios de evaluación para escáneres, un tipo crucial de periférico de entrada en sistemas informáticos. Este apartado es fundamental para entender cómo seleccionar y validar la eficacia de escáneres según diversos parámetros técnicos y funcionales.
+
+El propósito principal de esta carpeta es ofrecer a los estudiantes y profesionales una comprensión profunda de las características clave que deben considerarse al evaluar un escáner. Desde la velocidad de escaneo hasta la calidad de imagen, pasando por la compatibilidad con diferentes sistemas operativos y la capacidad de manejar múltiples formatos de archivo, se abordan diversos aspectos cruciales.
+
+El enfoque aquí es práctico y orientado a la aplicación real. Se presentan ejemplos concretos de escáneres y cómo evaluar su rendimiento en diferentes situaciones. Además, se incluyen consejos sobre cómo realizar pruebas de funcionamiento y qué criterios seguir para determinar si un escáner cumple con las necesidades específicas del usuario o organización.
+
+El recorrido conceptual típico en este nivel implica una exploración detallada de cada aspecto relevante. Comienza por una introducción general a los escáneres y sus aplicaciones, luego se profundiza en la caracterización técnica de estos dispositivos. A continuación, se presentan los criterios específicos que deben evaluarse, como velocidad, resolución, tamaño del papel soportado y capacidad de escaneo por lotes.
+
+El contenido también aborda las consideraciones prácticas, como la facilidad de uso, la durabilidad del equipo y su compatibilidad con sistemas operativos modernos. Además, se incluyen consejos sobre cómo mantener un escáner en óptimas condiciones para prolongar su vida útil y garantizar su rendimiento continuo.
+
+Finalmente, el apartado concluye con una reflexión sobre las implicaciones éticas y legales de la adquisición y uso de escáneres, destacando la importancia de elegir productos que no solo cumplan con los requisitos técnicos, sino también cumplen con estándares de seguridad y privacidad.
+
+En resumen, esta carpeta proporciona un recurso valioso para aquellos interesados en el montaje, mantenimiento y evaluación de escáneres. Ofrece una visión completa y práctica del tema, desde la caracterización técnica hasta las consideraciones prácticas y éticas, permitiendo a los usuarios tomar decisiones informadas sobre la adquisición y uso de estos periféricos de entrada en sus sistemas informáticos.

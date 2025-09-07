@@ -1,0 +1,15 @@
+La carpeta `Primer curso/Montaje y mantenimiento de equipos/012-12. Cumplimiento de las normas de prevención de riesgos laborales y protección ambiental/003-12.3. Prevención de riesgos laborales en los procesos de montaje y mantenimiento/003-Criterios de evaluación` se centra en el aspecto crucial del cumplimiento de las normas de prevención de riesgos laborales y protección ambiental específicamente en los procesos de montaje y mantenimiento. Este nivel de la jerarquía proporciona una estructura detallada para evaluar cómo se implementan estas normas en situaciones prácticas.
+
+El propósito principal es garantizar que las actividades de montaje y mantenimiento sean seguras y ambientalmente responsables, minimizando riesgos potenciales tanto para los trabajadores como para el medio ambiente. Para lograr esto, se presentan criterios específicos y evaluaciones que permiten identificar áreas de mejora y asegurar que todas las medidas recomendadas estén siendo aplicadas.
+
+El enfoque aquí es práctico y orientado a la acción. Se proporcionan instrucciones claras sobre cómo realizar evaluaciones rigurosas para determinar el grado de cumplimiento con las normativas establecidas. Esto incluye la identificación de riesgos potenciales, la implementación de medidas correctivas y la documentación de los resultados obtenidos.
+
+El recorrido conceptual típico en este nivel comienza con una revisión exhaustiva de las normas aplicables a los procesos de montaje y mantenimiento. A continuación, se realiza una evaluación detallada de cómo estas normas están siendo implementadas en la práctica. Esto implica un análisis riguroso de los procedimientos existentes, la identificación de áreas que requieren mejora y la formulación de planes correctivos.
+
+A lo largo del proceso, se enfatiza la importancia de la documentación exhaustiva. Se proporcionan instrucciones sobre cómo mantener registros precisos de todas las evaluaciones realizadas y los resultados obtenidos. Esto no solo asegura el cumplimiento legal sino que también facilita el seguimiento y mejora continua.
+
+Además, se aborda el aspecto ambiental en esta sección. Se explican las medidas específicas que deben implementarse para minimizar el impacto negativo del montaje y mantenimiento sobre el medio ambiente. Esto incluye la selección de materiales sostenibles, la gestión adecuada de residuos y la implementación de prácticas de energía eficiente.
+
+El recorrido culmina con una evaluación final que permite determinar el nivel de cumplimiento alcanzado y las áreas que requieren mayor atención. Se proporcionan recomendaciones específicas para mejorar la situación y asegurar un cumplimiento óptimo en el futuro.
+
+En resumen, esta carpeta ofrece una guía completa y práctica para evaluar y mejorar el cumplimiento de las normas de prevención de riesgos laborales y protección ambiental en los procesos de montaje y mantenimiento. A través de criterios claros y evaluaciones rigurosas, se proporciona un marco sólido para garantizar la seguridad y sostenibilidad de estas actividades.

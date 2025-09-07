@@ -1,0 +1,11 @@
+La carpeta `Primer curso/Montaje y mantenimiento de equipos/005-5. Placas Base/005-5.5. Dispositivos de almacenamiento/002-Ejercicios` se centra en proporcionar ejercicios prácticos relacionados con los dispositivos de almacenamiento en las placas base de computadoras. Este nivel del contenido es específico para aquellos que desean aplicar conocimientos teóricos sobre la instalación, configuración y gestión de estos componentes críticos.
+
+Los ejercicios aquí presentados abordan diversos aspectos prácticos de los dispositivos de almacenamiento, desde el montaje físico hasta la configuración del sistema operativo para reconocer y utilizar estos nuevos medios. Los estudiantes aprenderán cómo identificar diferentes tipos de discos duros, SSDs y otros dispositivos de almacenamiento, así como cómo realizar las conexiones necesarias en la placa base.
+
+Además, los ejercicios incluyen prácticas sobre la configuración del sistema operativo para que reconozca y utilice estos nuevos medios de almacenamiento. Esto implica aprender a formatear discos duros, crear particiones y montar sistemas de archivos adecuados. Los estudiantes también explorarán cómo gestionar el espacio de almacenamiento, incluyendo la creación de volúmenes lógicos y la configuración de RAID para aumentar la redundancia y el rendimiento.
+
+En este nivel, los ejercicios son prácticos y orientados a la solución de problemas comunes que pueden surgir durante el montaje y mantenimiento de equipos. Los estudiantes aprenderán habilidades esenciales como la identificación de errores en la instalación, la diagnóstico de problemas de rendimiento y la optimización del uso del espacio de almacenamiento.
+
+Los ejercicios aquí presentados también incluyen prácticas sobre la seguridad en el almacenamiento, enseñando a los estudiantes cómo proteger sus datos contra pérdidas o daños. Esto implica aprender sobre técnicas de copia de seguridad, la configuración de políticas de contraseñas y la protección contra malware.
+
+En resumen, esta carpeta proporciona una serie de ejercicios prácticos centrados en el montaje y mantenimiento de dispositivos de almacenamiento en las placas base de computadoras. Los estudiantes aprenderán habilidades esenciales para configurar y gestionar estos componentes críticos, así como cómo proteger sus datos contra pérdidas o daños.

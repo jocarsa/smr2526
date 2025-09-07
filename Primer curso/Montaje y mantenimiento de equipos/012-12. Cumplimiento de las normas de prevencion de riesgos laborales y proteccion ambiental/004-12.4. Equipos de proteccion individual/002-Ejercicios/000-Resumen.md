@@ -1,0 +1,13 @@
+La carpeta `Primer curso/Montaje y mantenimiento de equipos/012-12. Cumplimiento de las normas de prevención de riesgos laborales y protección ambiental/004-12.4. Equipos de protección individual/002-Ejercicios` se centra en la práctica y aplicación de los conceptos relacionados con el uso de equipos de protección individual (EPI) en entornos laborales. Este nivel del contenido proporciona un enfoque práctico sobre cómo implementar medidas de seguridad para proteger a los trabajadores contra riesgos físicos, químicos, biológicos y psicológicos.
+
+El propósito principal es que los estudiantes o profesionales adquieran la capacidad de identificar y seleccionar adecuadamente los EPI necesarios para diferentes actividades laborales, así como cómo utilizarlos correctamente. Esto implica una comprensión profunda de las normativas vigentes en materia de seguridad y salud ocupacional y su aplicación práctica.
+
+El recorrido conceptual típico comienza con la identificación de los riesgos específicos presentes en el entorno laboral, seguido por la selección de los EPI apropiados basada en estos riesgos. A continuación, se aborda cómo almacenar, mantener y utilizar adecuadamente los EPI para garantizar su eficacia y prolongar su vida útil.
+
+Los estudiantes aprenderán a realizar inspecciones periódicas de los EPI para asegurar que estén en buenas condiciones y que no presenten riesgos adicionales. También se enfatiza la importancia del entrenamiento continuo sobre el uso correcto de los EPI, así como la necesidad de mantener registros detallados de su utilización y mantenimiento.
+
+A lo largo del recorrido, se presentan ejercicios prácticos que permiten aplicar teoría en la práctica. Estos ejercicios pueden incluir simulaciones de situaciones laborales reales, evaluaciones de inventario de EPI, planificación de programas de formación y mantenimiento, entre otros.
+
+El objetivo final es que los participantes adquieran habilidades prácticas y una comprensión profunda del papel crucial que desempeñan los EPI en la prevención de accidentes y enfermedades laborales. Este conocimiento les permitirá no solo cumplir con las normativas de seguridad, sino también contribuir a crear un ambiente laboral más seguro y saludable.
+
+En resumen, esta carpeta ofrece una introducción práctica al uso de equipos de protección individual en entornos laborales, enfocándose en la identificación de riesgos, selección adecuada de EPI, almacenamiento y mantenimiento, así como el entrenamiento continuo. A través de ejercicios prácticos, los estudiantes adquieren habilidades esenciales para implementar medidas de seguridad efectivas y contribuir a la protección del bienestar de los trabajadores en su entorno laboral.

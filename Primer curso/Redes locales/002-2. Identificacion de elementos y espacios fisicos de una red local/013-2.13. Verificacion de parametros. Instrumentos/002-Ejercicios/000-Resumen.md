@@ -1,0 +1,11 @@
+La carpeta `Primer curso/Redes locales/002-2. Identificacion de elementos y espacios fisicos de una red local/013-2.13. Verificacion de parametros. Instrumentos/002-Ejercicios` se centra en proporcionar los ejercicios prácticos necesarios para verificar los parámetros y utilizar instrumentos en el contexto de la identificación de elementos y espacios físicos de una red local.
+
+Los estudiantes aprenderán a realizar verificaciones sistemáticas de los parámetros clave que definen la configuración física y operativa de una red local. Esto incluye la medición de velocidades de transmisión, latencias, niveles de ruido y otros indicadores cruciales para el funcionamiento eficiente de la infraestructura.
+
+Además, se enfatizará en el uso de diversos instrumentos y herramientas especializadas que permiten realizar estas verificaciones. Estos instrumentos pueden variar desde simples medidores digitales hasta sistemas más complejos como escáneres de red o analizadores de tráfico de red.
+
+Los ejercicios propuestos en esta carpeta son diseñados para ser prácticos y aplicables a situaciones reales, permitiendo que los estudiantes adquieran experiencia directa en la identificación y análisis de los elementos físicos de una red local. A través de estos ejercicios, se espera que los estudiantes desarrollen habilidades cruciales como la capacidad de interpretar datos técnicos, realizar ajustes necesarios para optimizar el rendimiento de la red y resolver problemas emergentes.
+
+El enfoque en este nivel es práctico y orientado a la aplicación inmediata de los conocimientos teóricos adquiridos en las lecciones previas. Los estudiantes serán guiados paso a paso a través del proceso de identificación, verificación y análisis de los elementos físicos de una red local, utilizando instrumentos adecuados para obtener resultados precisos.
+
+En resumen, esta carpeta proporciona un marco práctico para la aplicación de los conocimientos teóricos sobre la identificación de elementos y espacios físicos de una red local. A través de una serie de ejercicios centrados en la verificación de parámetros y el uso de instrumentos especializados, los estudiantes adquirirán habilidades prácticas esenciales para el análisis y optimización de redes locales.

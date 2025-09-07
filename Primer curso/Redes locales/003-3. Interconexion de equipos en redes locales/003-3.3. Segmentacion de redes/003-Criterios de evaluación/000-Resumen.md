@@ -1,0 +1,11 @@
+La carpeta `Primer curso/Redes locales/003-3. Interconexion de equipos en redes locales/003-3.3. Segmentacion de redes/003-Criterios de evaluación` se centra en el proceso de segmentación de redes, un aspecto crucial para la gestión eficiente y segura de las infraestructuras de red. La segmentación permite dividir una red en subredes más pequeñas, lo que facilita la administración, mejora la seguridad y optimiza el rendimiento.
+
+Este nivel de la jerarquía presenta los criterios y métodos utilizados para evaluar la eficacia de las estrategias de segmentación. Comienza con una introducción a los conceptos básicos de segmentación, explicando cómo se divide una red en subredes y por qué es importante hacerlo. A continuación, se detalla el proceso de identificar los requisitos específicos para cada subred, considerando factores como la cantidad de dispositivos, la velocidad requerida y las necesidades de seguridad.
+
+El recorrido conceptual típico en este nivel implica una exploración profunda de los métodos de segmentación disponibles, incluyendo el uso de firewalls, VLANs (VLANs) y subredes basadas en protocolos. Se analizan las ventajas y desventajas de cada método, considerando factores como la complejidad, la escalabilidad y la compatibilidad con los sistemas existentes.
+
+Además, se aborda el proceso de diseño y configuración de las subredes, incluyendo la asignación de direcciones IP y la definición de políticas de acceso. Se presentan técnicas para optimizar el rendimiento de las subredes, como la utilización de enrutadores eficientes y la implementación de protocolos de control de tráfico.
+
+El nivel culmina con una evaluación crítica de los criterios utilizados para medir la efectividad de las estrategias de segmentación. Se discuten indicadores clave como el tiempo de respuesta, la disponibilidad del servicio y la seguridad contra amenazas externas. Además, se exploran técnicas para monitorear y optimizar continuamente el rendimiento de las subredes.
+
+En resumen, esta carpeta proporciona una comprensión profunda de los métodos y criterios utilizados en la segmentación de redes locales. Desde la identificación de requisitos hasta la evaluación crítica de la eficacia, ofrece un recorrido completo que permite a los profesionales de TI diseñar, implementar y optimizar infraestructuras de red eficientemente y seguramente.

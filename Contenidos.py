@@ -9,10 +9,10 @@ Nueva lógica solicitada:
 2) Sólo cuando la carpeta actual corresponda a una "subunidad didáctica":
      - Crear subcarpeta "001-Contenidos básicos"
      - Dentro, "Contenidos básicos.md"
-     - No sobrescribir si ya existe.
+     - No sobrescribir si ya existe con contenido (sí si está vacío).
 3) En cualquier otro caso (curso, asignatura, unidad didáctica, u otros apartados):
      - Crear en la carpeta actual un archivo "000-Resumen.md" (sin subcarpeta)
-     - No sobrescribir si ya existe.
+     - No sobrescribir si ya existe con contenido (sí si está vacío).
 
 Estilo:
 - EXACTAMENTE 10 párrafos, prosa, tono literario y didáctico.
@@ -35,7 +35,7 @@ import sys
 import time
 import json
 from pathlib import Path
-from typing import List, Iterable
+from typing import List, Iterable, Tuple
 import requests
 
 # ---------------------- CONFIGURACIÓN ----------------------
@@ -155,6 +155,26 @@ def has_child_dirs(folder: Path) -> bool:
     return False
 
 
+def should_write(path: Path) -> Tuple[bool, str]:
+    """
+    Decide si se debe escribir en `path`.
+
+    Devuelve:
+      - (True, "crear") si no existe (se creará).
+      - (True, "sobrescribir_vacio") si existe y está vacío (se sobrescribirá).
+      - (False, "omitir_contenido") si existe y tiene contenido (no se toca).
+    """
+    if not path.exists():
+        return True, "crear"
+    try:
+        if path.is_file() and path.stat().st_size == 0:
+            return True, "sobrescribir_vacio"
+    except OSError:
+        # Si no se puede leer tamaño por algún motivo, mejor no tocarlo
+        return False, "omitir_contenido"
+    return False, "omitir_contenido"
+
+
 # ---------------------- LÓGICA PRINCIPAL ----------------------
 
 
@@ -213,16 +233,23 @@ def main():
             out_dir = d / OUTPUT_SUBFOLDER
             out_path = out_dir / OUTPUT_BASICO
 
-            if out_path.exists():
-                print(f"[→] Ya existe, se omite: {out_path}")
-                continue
-
+            # Crear carpeta contenedora si no existe
             if not out_dir.exists():
                 try:
                     out_dir.mkdir(parents=True, exist_ok=True)
                 except Exception as e:
                     print(f"[!] No se pudo crear {out_dir}: {e}")
                     continue
+
+            write_ok, reason = should_write(out_path)
+            if not write_ok:
+                print(f"[→] Ya existe con contenido, se omite: {out_path}")
+                continue
+            else:
+                if reason == "sobrescribir_vacio":
+                    print(f"[!] Archivo vacío encontrado, se sobrescribirá: {out_path}")
+                else:
+                    print(f"[+] Se creará nuevo archivo: {out_path}")
 
             user_prompt = (
                 f"{context_header}\n"
@@ -260,9 +287,15 @@ def main():
             # Caso 3: crear "000-Resumen.md" en la carpeta actual (sin subcarpeta)
             out_path = d / OUTPUT_RESUMEN
 
-            if out_path.exists():
-                print(f"[→] Ya existe, se omite: {out_path}")
+            write_ok, reason = should_write(out_path)
+            if not write_ok:
+                print(f"[→] Ya existe con contenido, se omite: {out_path}")
                 continue
+            else:
+                if reason == "sobrescribir_vacio":
+                    print(f"[!] Archivo vacío encontrado, se sobrescribirá: {out_path}")
+                else:
+                    print(f"[+] Se creará nuevo archivo: {out_path}")
 
             user_prompt = (
                 f"{context_header}\n"
@@ -302,3 +335,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

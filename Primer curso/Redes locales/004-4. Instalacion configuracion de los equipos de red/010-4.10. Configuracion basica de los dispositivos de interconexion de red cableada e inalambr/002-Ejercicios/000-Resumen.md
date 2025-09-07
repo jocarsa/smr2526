@@ -1,0 +1,11 @@
+La carpeta `Primer curso/Redes locales/004-4. Instalacion configuracion de los equipos de red/010-4.10. Configuracion basica de los dispositivos de interconexion de red cableada e inalambr/002-Ejercicios` se centra en proporcionar ejercicios prácticos relacionados con la configuración básica de los dispositivos de interconexión de red, tanto cableados como inalámbricos. Este nivel del contenido es crucial para entender cómo establecer y mantener una infraestructura de red funcional.
+
+Los estudiantes aprenderán a realizar tareas fundamentales como la asignación de direcciones IP, la configuración de puertas de enlace, el ajuste de parámetros de red y la verificación de la conectividad. Estos ejercicios prácticos complementan los conocimientos teóricos adquiridos en las lecciones previas sobre redes locales.
+
+El enfoque aquí es práctico y orientado a la solución de problemas, lo que permite a los estudiantes aplicar directamente lo aprendido en entornos reales. A través de una serie de ejercicios variados, se desarrolla la habilidad para identificar y resolver problemas comunes en la configuración de dispositivos de red.
+
+El recorrido conceptual típico en este nivel implica un enfoque progresivo desde conceptos básicos hasta situaciones más complejas. Comienza con la comprensión de los fundamentos de la asignación de direcciones IP y avanza hacia la configuración avanzada de dispositivos de red, incluyendo la gestión de puertas de enlace y el uso de protocolos de red.
+
+Los estudiantes también aprenderán a utilizar herramientas de diagnóstico y monitoreo para verificar la correcta configuración de los dispositivos. Esto es fundamental para asegurar que la infraestructura de red funcione eficientemente y de manera segura.
+
+En resumen, esta carpeta proporciona una serie de ejercicios prácticos centrados en la configuración básica de dispositivos de interconexión de red, tanto cableados como inalámbricos. El enfoque es práctico y orientado a la solución de problemas, lo que permite a los estudiantes aplicar directamente lo aprendido en entornos reales. A través de una serie de ejercicios variados, se desarrolla la habilidad para identificar y resolver problemas comunes en la configuración de dispositivos de red.

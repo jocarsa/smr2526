@@ -1,0 +1,11 @@
+La carpeta `Primer curso/Redes locales/004-4. Instalacion configuracion de los equipos de red/002-4.2. Nivel fisico/003-Criterios de evaluación` se centra en el análisis y definición de los criterios que deben cumplirse para evaluar la instalación y configuración física de los equipos de red. Este nivel es crucial porque aborda las especificaciones técnicas y físicas necesarias para asegurar una correcta implementación del hardware.
+
+El propósito principal de esta carpeta es proporcionar un marco detallado sobre cómo medir y verificar que los equipos de red cumplen con los estándares y requisitos establecidos. Esto incluye la evaluación de factores como el tipo y capacidad del equipo, su ubicación física en la red, la conectividad de cables y la configuración de interfaces.
+
+El enfoque aquí es práctico y orientado a la implementación real. Se presentan criterios específicos que los profesionales deben considerar durante cada etapa de la instalación y configuración. Estos criterios abordan desde el diseño del espacio físico hasta la selección y conexión de dispositivos, asegurando una red eficiente y segura.
+
+El recorrido conceptual típico en este nivel implica un análisis detallado de los equipos individuales y cómo interactúan entre sí. Se examinan aspectos como la capacidad de procesamiento, la velocidad de transmisión de datos, el almacenamiento disponible y las interfaces de red disponibles. Además, se evalúa la ubicación física de los equipos en la red, considerando factores como la accesibilidad, la protección contra daños físicos y la facilidad de mantenimiento.
+
+Además, esta carpeta aborda la importancia de la documentación durante el proceso de instalación y configuración. Se explican cómo se debe registrar toda la información relevante sobre los equipos, sus conexiones y su funcionamiento para facilitar futuras modificaciones o reparaciones.
+
+En resumen, este nivel de la jerarquía proporciona un enfoque práctico y detallado para evaluar la instalación y configuración física de los equipos de red. A través de criterios específicos y una evaluación cuidadosa, se asegura que cada equipo cumpla con las necesidades técnicas y físicas del sistema, lo que resulta en una red robusta y eficiente.

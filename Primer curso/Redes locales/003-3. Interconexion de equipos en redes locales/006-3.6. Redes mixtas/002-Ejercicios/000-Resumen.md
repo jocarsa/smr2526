@@ -1,0 +1,13 @@
+La carpeta `Primer curso/Redes locales/003-3. Interconexion de equipos en redes locales/006-3.6. Redes mixtas/002-Ejercicios` se centra en proporcionar ejercicios prácticos relacionados con la interconexión de equipos en redes locales que pueden incluir tanto sistemas operativos libres como propietarios, lo que se denomina redes mixtas. Este nivel del contenido es crucial para entender cómo manejar y optimizar el rendimiento y la seguridad en entornos de red heterogéneos.
+
+Los ejercicios aquí presentados están diseñados para ayudar a los estudiantes a aplicar conocimientos teóricos sobre la configuración, gestión y monitorización de sistemas operativos en redes locales. Comenzando con la identificación de los requisitos técnicos necesarios para la instalación de sistemas operativos en red, avanzamos hacia la preparación de la instalación, incluyendo la creación de particiones y el montaje del sistema de archivos.
+
+El contenido también aborda los componentes esenciales de un sistema operativo en red, como su configuración inicial y las herramientas disponibles para controlar y seguir su rendimiento. Los estudiantes aprenderán a utilizar estas herramientas para identificar problemas potenciales y proponer soluciones efectivas.
+
+Además, el enfoque en redes mixtas implica una comprensión profunda de cómo integrar diferentes tipos de hardware y software, lo que es fundamental en entornos empresariales modernos. Los ejercicios aquí proporcionan práctica en la configuración de recursos compartidos en red, la seguridad de estos recursos y la gestión eficiente de los procesos relacionados con los servicios del sistema operativo.
+
+A lo largo de este nivel, se enfatiza la importancia de la documentación detallada de las instalaciones e incidencias, así como el proceso de actualización continua de los sistemas operativos. Estas habilidades son cruciales para mantener un entorno de red eficiente y seguro a largo plazo.
+
+Finalmente, los ejercicios en esta carpeta también incluyen la integración de hardware y software de distintos fabricantes, lo que es una práctica común en el mundo empresarial. Esto requiere una comprensión profunda de las interfaces y protocolos utilizados para asegurar una comunicación fluida entre diferentes sistemas.
+
+En resumen, este nivel del contenido proporciona a los estudiantes la oportunidad de aplicar sus conocimientos teóricos sobre la gestión de redes locales en un contexto práctico. A través de una serie de ejercicios que abordan desde la instalación inicial hasta la integración avanzada de sistemas operativos en entornos heterogéneos, los estudiantes adquieren habilidades cruciales para manejar y optimizar el rendimiento y la seguridad de sus redes locales.

@@ -1,0 +1,9 @@
+La carpeta `Primer curso/Redes locales/004-4. Instalacion configuracion de los equipos de red/003-4.3. Nivel de enlace/003-Criterios de evaluación` se centra en el proceso de instalación y configuración de los equipos de red, con un enfoque específico en el nivel de enlace. Este nivel es crucial para entender cómo los dispositivos se comunican directamente entre sí en una red local.
+
+El objetivo principal de esta carpeta es proporcionar criterios claros y evaluaciones rigurosas para asegurar que la instalación y configuración del nivel de enlace sean efectivas y seguras. Los estudiantes aprenderán a definir y aplicar estos criterios, lo que les permitirá evaluar el rendimiento y la confiabilidad de las comunicaciones en el nivel de enlace.
+
+El recorrido conceptual típico en este nivel implica una exploración detallada del protocolo de enlace, como Ethernet o Wi-Fi. Se discutirán los aspectos técnicos importantes, como la velocidad de transmisión, la latencia y la capacidad de manejo de errores. Además, se proporcionarán ejemplos prácticos de cómo configurar correctamente el nivel de enlace en diferentes dispositivos.
+
+Además, esta carpeta abordará la importancia de la monitorización y la gestión del nivel de enlace para mantener una red local eficiente y segura. Los estudiantes aprenderán a utilizar herramientas específicas para realizar estas tareas y cómo interpretar los resultados obtenidos.
+
+En resumen, este nivel de la jerarquía se enfoca en el nivel de enlace de las redes locales, proporcionando criterios claros y evaluaciones rigurosas para asegurar una instalación y configuración efectivas. A través de un recorrido conceptual detallado, los estudiantes adquirirán conocimientos prácticos sobre cómo optimizar y mantener la eficiencia y seguridad del nivel de enlace en sus redes locales.

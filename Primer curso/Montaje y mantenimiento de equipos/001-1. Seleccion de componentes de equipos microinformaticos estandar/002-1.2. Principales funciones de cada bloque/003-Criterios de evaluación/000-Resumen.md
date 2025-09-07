@@ -1,0 +1,9 @@
+La carpeta `Primer curso/Montaje y mantenimiento de equipos/001-1. Seleccion de componentes de equipos microinformaticos estandar/002-1.2. Principales funciones de cada bloque/003-Criterios de evaluación` se centra en proporcionar un análisis detallado de las principales funciones de los bloques individuales que componen un equipo microinformático estándar. Este nivel de la jerarquía del contenido aborda el funcionamiento interno y las especificaciones técnicas de cada componente, preparando al lector para una comprensión más profunda del montaje y mantenimiento de estos equipos.
+
+El propósito principal de esta carpeta es que los estudiantes o profesionales puedan entender cómo cada bloque contribuye a la funcionalidad global del sistema. Al examinar las funciones específicas de cada componente, se desarrolla un conocimiento sólido sobre cómo interactúan entre sí y qué requisitos técnicos deben cumplir para funcionar correctamente en conjunto.
+
+El enfoque aquí es desglosado y explicativo, con el objetivo de que los lectores puedan identificar claramente las partes críticas del equipo microinformático. Se abordan tanto los componentes físicos como los aspectos software, proporcionando una visión integral del sistema.
+
+El recorrido conceptual típico en este nivel implica un viaje desde la comprensión básica de cada componente hasta su integración y funcionamiento en el contexto del equipo completo. Los lectores aprenderán a evaluar los criterios técnicos relevantes para seleccionar componentes adecuados, así como cómo estos componentes se utilizan en situaciones prácticas.
+
+Este nivel es fundamental para cualquier persona que desee entender o trabajar con equipos microinformáticos, ya sea para su montaje, mantenimiento o simplemente para una mejor comprensión de cómo funcionan los sistemas modernos.

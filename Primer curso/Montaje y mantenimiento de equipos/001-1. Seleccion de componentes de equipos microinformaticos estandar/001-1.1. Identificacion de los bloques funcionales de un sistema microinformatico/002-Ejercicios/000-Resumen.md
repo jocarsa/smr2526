@@ -1,0 +1,11 @@
+La carpeta `Primer curso/Montaje y mantenimiento de equipos/001-1. Seleccion de componentes de equipos microinformaticos estandar/001-1.1. Identificacion de los bloques funcionales de un sistema microinformatico/002-Ejercicios` se centra en proporcionar una comprensión profunda del montaje y mantenimiento de equipos microinformáticos estándar, con un énfasis particular en la identificación de los bloques funcionales que componen estos sistemas. Este nivel de la jerarquía es crucial para entender cómo cada parte contribuye al funcionamiento global del equipo.
+
+El propósito principal de esta carpeta es guiar a los estudiantes y profesionales en el proceso de selección adecuada de componentes, lo cual es fundamental para el montaje y mantenimiento eficiente de equipos microinformáticos. A través de una serie de ejercicios prácticos, se busca fortalecer la capacidad de identificar y analizar los diferentes bloques funcionales que conforman un sistema microinformático estándar.
+
+El enfoque aquí es práctico y orientado a la aplicación directa del conocimiento teórico. Los estudiantes aprenderán a reconocer y categorizar componentes como el procesador, la memoria RAM, el disco duro, la placa base, los periféricos de entrada/salida y otros elementos críticos que hacen posible la operación de un equipo microinformático.
+
+El recorrido conceptual típico en este nivel implica una exploración inicial del sistema microinformático como un todo, seguida de una descomposición detallada de sus componentes individuales. Los estudiantes aprenderán a distinguir entre componentes internos y externos, así como a entender cómo estos interactúan para proporcionar la funcionalidad necesaria.
+
+A lo largo de los ejercicios, se enfatizará en el análisis crítico de las especificaciones técnicas de cada componente, su importancia en el rendimiento del sistema y las consideraciones que deben tenerse en cuenta durante el proceso de selección. Además, se explorarán técnicas prácticas para la identificación visual de componentes y la interpretación de diagramas y esquemas electrónicos.
+
+El objetivo final es equipar a los estudiantes con una sólida base teórica y práctica sobre la selección y montaje de equipos microinformáticos, preparándolos para enfrentar desafíos más complejos en el campo del mantenimiento y reparación de sistemas informáticos.

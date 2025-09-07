@@ -1,0 +1,13 @@
+La carpeta `Primer curso/Montaje y mantenimiento de equipos/001-1. Seleccion de componentes de equipos microinformaticos estandar/003-1.3. Tipos de memoria. Caracteristicas y funciones de cada tipo/003-Criterios de evaluación` se centra en proporcionar un análisis detallado sobre los diferentes tipos de memoria utilizados en equipos microinformáticos estándar, sus características distintivas y las funciones específicas que desempeñan. Este nivel de la jerarquía del curso aborda el aspecto técnico fundamental de la configuración y optimización de sistemas informáticos.
+
+El propósito principal es equipar al estudiante con una comprensión profunda de los tipos de memoria disponibles, su importancia en el rendimiento del equipo y cómo seleccionar adecuadamente las opciones para diferentes aplicaciones. El enfoque aquí es práctico y teórico, combinando conocimientos técnicos con consideraciones operativas.
+
+El recorrido conceptual típico comienza con una introducción a los tipos básicos de memoria utilizada en microinformáticos, como la RAM (Memoria Random Access Memory) y el almacenamiento secundario. A continuación, se profundiza en cada tipo, destacando sus características técnicas, como velocidad de acceso, capacidad y costo. Se examina cómo estas características afectan al rendimiento del sistema y a las aplicaciones que ejecuta.
+
+El curso también aborda la importancia de la compatibilidad entre diferentes tipos de memoria y cómo esta puede influir en el montaje y funcionamiento del equipo. Además, se discute sobre las mejores prácticas para la selección de memoria, considerando factores como el tipo específico de sistema operativo, las aplicaciones que se ejecutarán y los requisitos de rendimiento.
+
+Además, se incluyen criterios de evaluación específicos para cada tipo de memoria, lo que permite al estudiante evaluar y comparar diferentes opciones en función de sus necesidades particulares. Esto incluye consideraciones como la capacidad de almacenamiento, la velocidad de acceso y el costo-beneficio.
+
+El recorrido finaliza con una reflexión sobre cómo aplicar esta conocimiento práctico en situaciones reales, desde la selección de componentes para un nuevo sistema hasta la optimización del rendimiento de uno existente. Se proporcionan ejemplos ilustrativos y consejos prácticos que ayudan al estudiante a aplicar lo aprendido en el mundo real.
+
+En resumen, esta carpeta es una guía integral sobre los tipos de memoria utilizados en equipos microinformáticos estándar, su selección adecuada y cómo evaluar sus características. Es un recurso valioso para estudiantes que desean comprender mejor la configuración y optimización de sistemas informáticos, proporcionando una base sólida para futuras aplicaciones prácticas.

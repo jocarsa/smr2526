@@ -1,0 +1,13 @@
+La carpeta `Primer curso/Montaje y mantenimiento de equipos/011-11. Perifericos de entrada/003-11.3. Grabadores de datos/002-Ejercicios` se centra en proporcionar ejercicios prácticos relacionados con los grabadores de datos, que son dispositivos esenciales para la entrada de información en sistemas informáticos. Este nivel de la jerarquía del curso sigue el enfoque estructurado y progresivo de los contenidos previos, centrándose específicamente en los periféricos de entrada.
+
+Los ejercicios aquí presentados están diseñados para que los estudiantes apliquen conocimientos teóricos sobre grabadores de datos a situaciones prácticas. Comienzan con una introducción básica a la funcionalidad y tipos de grabadores de datos, avanzando hacia el análisis de problemas comunes y soluciones prácticas.
+
+El enfoque aquí es práctico y aplicable, enfatizando la capacidad del estudiante para identificar y resolver problemas relacionados con los grabadores de datos. Los ejercicios incluyen tanto problemas teóricos como simulaciones prácticas, permitiendo una comprensión profunda y aplicada del tema.
+
+El recorrido conceptual típico en este nivel implica un inicio en la definición y tipos de grabadores de datos, luego se profundiza en los problemas comunes que pueden surgir durante su uso. A continuación, se presentan soluciones prácticas y métodos para resolver estos problemas, culminando con ejercicios que permiten al estudiante aplicar lo aprendido en situaciones reales.
+
+Los estudiantes aprenderán a identificar problemas comunes en grabadores de datos, como fallos de conexión o pérdida de datos, y cómo diagnosticar y solucionar estos problemas. También se enfatizará la importancia de mantener los periféricos de entrada limpios y funcionando correctamente para el buen funcionamiento del sistema.
+
+El objetivo final es que los estudiantes adquieran habilidades prácticas en el manejo y mantenimiento de grabadores de datos, preparándolos para enfrentar desafíos similares en situaciones profesionales. A través de la realización de estos ejercicios, se espera que los estudiantes desarrollen una comprensión profunda del funcionamiento de los grabadores de datos y cómo aplicar conocimientos teóricos a problemas prácticos.
+
+En resumen, esta carpeta proporciona un enfoque práctico y estructurado para el estudio de los grabadores de datos, enfatizando la aplicación de conocimientos teóricos a situaciones reales. A través de una serie de ejercicios que van desde problemas básicos hasta soluciones avanzadas, los estudiantes adquieren habilidades valiosas en el manejo y mantenimiento de estos periféricos esenciales para sistemas informáticos.

@@ -1,0 +1,13 @@
+La carpeta `Primer curso/Montaje y mantenimiento de equipos/005-5. Placas Base/011-5.11. Ensamblado de equipos microinformaticos/002-Ejercicios` se centra en proporcionar material práctico para los estudiantes que desean desarrollar sus habilidades en el ensamblaje de equipos microinformáticos, con un enfoque específico en la montaje de placas base. Este nivel de contenido es crucial para aquellos que buscan entender y aplicar los conceptos teóricos aprendidos en las lecciones anteriores sobre componentes electrónicos y arquitectura de computadoras.
+
+El objetivo principal de esta carpeta es guiar a los estudiantes a través del proceso de ensamblaje de una placa base, desde la selección adecuada de los componentes hasta el montaje detallado. Los ejercicios incluyen diagramas de esquemas y instrucciones paso a paso que permiten a los estudiantes experimentar con las piezas físicas y entender cómo funcionan juntas en un sistema microinformático.
+
+El recorrido conceptual típico comienza con una introducción al ensamblaje de placas base, donde se explican los diferentes tipos de placas y sus características. A continuación, se presentan los pasos básicos para preparar la placa para el montaje, incluyendo la limpieza y la verificación de las piezas. Luego, se detalla el proceso de instalación de los componentes principales como el procesador, la memoria RAM y los dispositivos de almacenamiento.
+
+El contenido también aborda la configuración de los puertos y conexiones, así como la instalación de periféricos adicionales. Los estudiantes aprenderán a conectar dispositivos como tarjetas gráficas, discos duros externos y dispositivos USB, y cómo asegurar que todas las conexiones estén correctas para evitar problemas futuros.
+
+Además, se incluyen ejercicios prácticos que permiten a los estudiantes aplicar lo aprendido en situaciones reales. Estos ejercicios pueden variar desde la instalación de una tarjeta gráfica hasta la configuración de un sistema dual-boot, proporcionando una amplia gama de experiencias prácticas.
+
+El contenido final de esta carpeta se centra en la documentación y el mantenimiento del equipo ensamblado. Los estudiantes aprenderán cómo mantener su equipo limpio y seguro, así como cómo realizar diagnósticos básicos para solucionar problemas comunes. Además, se proporcionan instrucciones sobre cómo guardar y transportar el equipo de manera segura.
+
+En resumen, esta carpeta es un recurso valioso para los estudiantes que desean desarrollar sus habilidades en el ensamblaje de equipos microinformáticos. A través de una serie de ejercicios prácticos y explicaciones detalladas, proporciona una experiencia completa y práctica que prepara a los estudiantes para enfrentar desafíos más complejos en el futuro.

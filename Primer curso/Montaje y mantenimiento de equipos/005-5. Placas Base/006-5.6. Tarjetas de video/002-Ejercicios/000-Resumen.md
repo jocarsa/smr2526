@@ -1,0 +1,9 @@
+La carpeta `Primer curso/Montaje y mantenimiento de equipos/005-5. Placas Base/006-5.6. Tarjetas de video/002-Ejercicios` se centra en proporcionar ejercicios prácticos relacionados con las tarjetas de video, un componente esencial para el rendimiento visual y gráfico de los equipos informáticos. Este nivel del contenido sigue una estructura lógica que comienza con la introducción a los conceptos básicos de las tarjetas de video, avanzando hacia su instalación y configuración en diferentes tipos de placas base.
+
+Los ejercicios aquí presentados están diseñados para ayudar al lector a aplicar conocimientos teóricos sobre las tarjetas de video en situaciones prácticas. Comienzan con la identificación y selección adecuada de una tarjeta de video, pasando por su instalación en la placa base, configuración del BIOS o UEFI para reconocer el nuevo componente, y finalmente, pruebas básicas para asegurar que la tarjeta esté funcionando correctamente.
+
+El enfoque aquí es práctico y orientado a la solución de problemas comunes que pueden surgir durante el montaje y mantenimiento de equipos informáticos. Los ejercicios incluyen tanto configuraciones estándar como situaciones más complejas, lo que permite al lector desarrollar una comprensión profunda del tema.
+
+Además, estos ejercicios proporcionan un contexto real para los conceptos teóricos aprendidos en el nivel superior de la jerarquía. Al resolver problemas específicos relacionados con las tarjetas de video, el lector puede aplicar conocimientos sobre arquitectura de computadoras, sistemas operativos y redes, lo que facilita una comprensión más integral del funcionamiento de los equipos informáticos.
+
+En resumen, esta carpeta ofrece un enfoque práctico y orientado a la solución de problemas para el lector que desea adquirir habilidades en el montaje y mantenimiento de equipos informáticos, con un énfasis especial en las tarjetas de video.
